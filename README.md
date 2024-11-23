@@ -75,11 +75,11 @@
 
 ---
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10&card_width=1000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10&card_width=1000)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=false&background=000080&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=false&background=000080&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&card_width=1000)
 
 ---
 
