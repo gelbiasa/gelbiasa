@@ -34,11 +34,11 @@ Stats📈
 
 ---
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ff69b4&text_color=ffffff&bg_color=000000)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&title_color=000000&icon_color=000000&text_color=000000&bg_color=87ceeb)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=true&title_color=ff69b4&text_color=ffffff&bg_color=000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&title_color=000000&text_color=000000&bg_color=87ceeb)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=true&background=000000&stroke=ffffff&ring=ff69b4&fire=ff69b4&currStreakLabel=ffffff)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=false&background=87ceeb&stroke=000000&ring=000000&fire=000000&currStreakLabel=000000)
 
 ---
 
