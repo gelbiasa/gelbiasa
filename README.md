@@ -29,14 +29,14 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/gelbiasa" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" style="fill: #87CEEB;" />
+</a>
+<a href="https://instagram.com/gelbiasa" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="Instagram" height="30" width="40" style="fill: #87CEEB;" />
+</a>
+<a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" alt="YouTube" height="30" width="40" style="fill: #87CEEB;" />
+</a>
 </p>
 
 ---
@@ -45,7 +45,7 @@
 
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40" style="fill: #87CEEB;" />
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
@@ -73,13 +73,12 @@
 
 ### 📊 **My GitHub Stats**
 
----
 
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10&card_width=1000)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&title_color=ffffff&text_color=ffffff&bg_color=000080&border_color=ffffff&border_radius=10&card_width=1000)
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=false&background=000080&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=radical&hide_border=false&background=000080&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&border_radius=10&card_width=1000)
 
 ---
 
