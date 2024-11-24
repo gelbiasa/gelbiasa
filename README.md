@@ -83,10 +83,10 @@
 
 ---
 
-### 🎮 Let's Play a Game!
+### 🎮 Enjoy The Animation!
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/games/snake.svg" alt="Snake Game" />
+  <img src="https://assets8.lottiefiles.com/packages/lf20_tutvdkg0.json" alt="Pixel Animation" />
 </p>
 
 --
