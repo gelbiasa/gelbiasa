@@ -85,21 +85,9 @@
 
 ### 🎮 Enjoy The Animation!
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.1/lottie.min.js"></script>
-
-<!-- Container Animasi -->
-<div id="pixel-animation" style="width: 300px; height: 300px; margin: auto;"></div>
-
-<!-- Script untuk Memuat Animasi -->
-<script>
-  var animation = lottie.loadAnimation({
-    container: document.getElementById('pixel-animation'), // ID container
-    renderer: 'svg', // Renderer SVG
-    loop: true, // Animasi diulang
-    autoplay: true, // Mulai secara otomatis
-    path: 'https://assets8.lottiefiles.com/packages/lf20_tutvdkg0.json' // URL animasi Lottie
-  });
-</script>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/main/assets/wave.svg" alt="wave animation" width="600" />
+</p>
 
 ---
 
