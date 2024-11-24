@@ -85,11 +85,23 @@
 
 ### 🎮 Enjoy The Animation!
 
-<p align="center">
-  <img src="https://assets8.lottiefiles.com/packages/lf20_tutvdkg0.json" alt="Pixel Animation" />
-</p>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.10.1/lottie.min.js"></script>
 
---
+<!-- Container Animasi -->
+<div id="pixel-animation" style="width: 300px; height: 300px; margin: auto;"></div>
+
+<!-- Script untuk Memuat Animasi -->
+<script>
+  var animation = lottie.loadAnimation({
+    container: document.getElementById('pixel-animation'), // ID container
+    renderer: 'svg', // Renderer SVG
+    loop: true, // Animasi diulang
+    autoplay: true, // Mulai secara otomatis
+    path: 'https://assets8.lottiefiles.com/packages/lf20_tutvdkg0.json' // URL animasi Lottie
+  });
+</script>
+
+---
 
 ✨ **Thank You for Visiting My Profile!** ✨
 
