@@ -83,6 +83,14 @@
 
 ---
 
+### 🎮 Let's Play a Game!
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alexandresanlim/Badges4-README.md-Profile/main/games/snake.svg" alt="Snake Game" />
+</p>
+
+--
+
 ✨ **Thank You for Visiting My Profile!** ✨
 
 </div>
