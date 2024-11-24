@@ -86,7 +86,7 @@
 ### 🎮 Enjoy The Animation!
 
 <p align="center">
-  <img src="https://assets8.lottiefiles.com/packages/lf20_tutvdkg0.json" alt="Pixel Animation" />
+  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 --
