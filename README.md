@@ -86,7 +86,7 @@
 ### 🎮 Enjoy The Animation!
 
 <p align="center">
-  <img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/username/repo/raw/branch/particles.svg" alt="Particle Animation" />
 </p>
 
 --
