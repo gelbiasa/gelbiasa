@@ -85,9 +85,15 @@
 
 ### 🎮 Enjoy The Animation!
 
-<p align="center">
-  <img src="https://github.com/username/repo/raw/branch/particles.svg" alt="Particle Animation" />
-</p>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <g>
+    <circle cx="50" cy="50" r="45" fill="none" stroke="#00ff00" stroke-width="5" />
+    <path fill="#00ff00" d="M50 5 L52 20 L48 20 Z">
+      <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="4s" repeatCount="indefinite" />
+    </path>
+  </g>
+</svg>
+
 
 --
 
