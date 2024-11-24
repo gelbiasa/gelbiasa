@@ -83,8 +83,6 @@
 
 ---
 
-### 🎮 Enjoy The Animation!
-
 <p align="center">
   <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" alt="ocean wave animation" width="600" />
 </p>
