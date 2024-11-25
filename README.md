@@ -21,7 +21,7 @@
 ### 🌐 **Portfolio & CV**
 
 - 🖥️ [View My Portfolio](https://gelbiasa.github.io/)
-- 📄 [View My CV](https://drive.google.com/file/d/1qcUm6fah_l-Plbng3DBWWVvktJ7bo1j_/view?usp=sharing)
+- 📄 [View My CV](https://drive.google.com/file/d/1HxNKmRl-EqYwiUFqBUMHtecjvpm4Y8wV/view?usp=sharing)
 
 ---
 
