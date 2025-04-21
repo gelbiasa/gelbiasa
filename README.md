@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm M. Isroqi Gelby Firmansyah</h1>
-<h3 align="center">Web Developer & UI/UX Designer</h3>
+<h3 align="center">Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="gelbiasa" />
@@ -21,7 +21,7 @@
 ### 🌐 **Portfolio & CV**
 
 - 🖥️ [View My Portfolio](https://gelbiasa.github.io/)
-- 📄 [View My CV](https://drive.google.com/file/d/1m35MgT8yu33zshbnZyqbVRahVhLbTCSG/view?usp=sharing)
+- 📄 [View My CV](https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing)
 
 ---
 
