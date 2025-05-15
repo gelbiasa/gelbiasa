@@ -75,17 +75,11 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/gelbiasa">
-    <img height="200" width="32%" style="margin:5px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=github_dark&hide_border=false" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/gelbiasa">
-    <img height="200" width="32%" style="margin:5px; border-radius: 10px;" src="https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  </a>
-  <a href="https://github.com/gelbiasa">
-    <img height="200" width="32%" style="margin:5px; border-radius: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=github_dark&hide_border=false" alt="Top Languages" />
-  </a>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
 
 ---
 
