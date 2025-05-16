@@ -114,7 +114,7 @@
 
 ---
 
-<img src="https://wakatime.com/share/@gelbiasa/d07b5f65-d3e7-4482-a065-8a6f5d14a0aa.svg" width="49%" /> <img src="https://wakatime.com/share/@gelbiasa/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="49%" />
+![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gelbiasa&theme=github_dark&layout=compact)
 
 ---
 
