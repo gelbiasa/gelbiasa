@@ -5,6 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="gelbiasa" />
 </p>
 
+![Code Time](http://img.shields.io/badge/Code%20Time-1,024%20hrs-blue)
+![Lines of code](https://img.shields.io/badge/Dari%20Hello%20World%20Saya%20Telah%20Menulis-1.2%20million%20baris%20kode-blue)
+
 ---
 
 ### 📝 **About Me**
@@ -105,23 +108,6 @@
 ---
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" />
-
----
-
-<div align="center">
-
-### 👨‍💻 **My Coding Activity**
-
----
-
-![Code Time](http://img.shields.io/badge/Code%20Time-1,024%20hrs-blue)
-![Lines of code](https://img.shields.io/badge/Dari%20Hello%20World%20Saya%20Telah%20Menulis-1.2%20million%20baris%20kode-blue)
-
-<img src="https://metrics.lecoq.io/gelbiasa?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&isocalendar=1" width="100%" />
-
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=gelbiasa" width="100%" />
-
-![Weekly Commits](https://github-readme-stats.vercel.app/api/wakatime?username=gelbiasa&theme=github_dark&layout=compact&range=last_7_days)
 
 ---
 
