@@ -114,7 +114,8 @@
 
 ---
 
-![Coding Stats](https://github-readme-stats.vercel.app/api/wakatime?username=gelbiasa&theme=github_dark&layout=compact)
+![Code Time](http://img.shields.io/badge/Code%20Time-1,024%20hrs-blue)
+![Lines of code](https://img.shields.io/badge/Dari%20Hello%20World%20Saya%20Telah%20Menulis-1.2%20million%20baris%20kode-blue)
 
 ---
 
