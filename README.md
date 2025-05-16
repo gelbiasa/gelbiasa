@@ -5,9 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="gelbiasa" />
 </p>
 
-![Code Time](http://img.shields.io/badge/Code%20Time-1,024%20hrs-blue)
-![Lines of code](https://img.shields.io/badge/Dari%20Hello%20World%20Saya%20Telah%20Menulis-1.2%20million%20baris%20kode-blue)
-
 ---
 
 ### 📝 **About Me**
