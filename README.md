@@ -98,6 +98,16 @@
 
 ---
 
+<div align="center">
+
+### 🏆 **My Github Trophies**
+
+---
+
+<img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" />
+
+---
+
 ✨ **Thank You for Visiting My Profile!** ✨
 
 </div>
