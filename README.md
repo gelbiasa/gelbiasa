@@ -9,8 +9,8 @@
 
 ### 📝 **About Me**
 
-- 🔭 Currently working on **Web & Mobile Development for Compensation Applications** at Politeknik Negeri Malang.
-- 🌱 Studying at **Politeknik Negeri Malang** with a focus on Web Development and UI/UX Design.
+- 🔭 Currently apprenticeship at UPA TIK Politeknik Negeri Malang as a backend developer.
+- 🌱 Studying at **Politeknik Negeri Malang** with a focus on Web Development and Database Engginer.
 - 👯 Open to collaborate on **Web Development and UI/UX Design Projects**.
 - 💬 Ask me about **Web Development, UI/UX Design, and Data Analysis**.
 - 📞 Contact me at: **085606310648**.
