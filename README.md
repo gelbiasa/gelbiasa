@@ -99,11 +99,11 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=15&bg_color=0d1117,1a1b27,2d1b69&title_color=58a6ff&text_color=c9d1d9&icon_color=f85d7f&border_color=30363d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=github_dark&hide_border=false&border_radius=10&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&border_radius=15&bg_color=0d1117,1a1b27,2d1b69&title_color=58a6ff&text_color=c9d1d9&border_color=30363d)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=github-dark&hide_border=false&border_radius=10&card_width=1000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=15&background=0D1117&ring=D4AF37&fire=D4AF37&currStreakNum=D4AF37&sideNums=D4AF37&currStreakLabel=D4AF37&sideLabels=c9d1d9&dates=c9d1d9)
 
 ---
 
