@@ -99,7 +99,7 @@
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,FFFFFF,F0F0F0,E0E0E0&title_color=FFD700&text_color=000000&icon_color=FFD700&border_color=FFD700&ring_color=000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&ring_color=000000&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&border_color=FFD700)
 
