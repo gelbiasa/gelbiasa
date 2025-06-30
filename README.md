@@ -1,9 +1,17 @@
 <div align="center">
   <h1>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'M+M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'M+M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=60&color=4A90E2&vCenter=true&size=24&duration=3000&pause=1000&background=00000000&multiline=false&shadow=true" alt="Typing SVG" />
     </a>
   </h1>
+  <style>
+    h1 img {
+      filter: drop-shadow(0 4px 8px rgba(74, 144, 226, 0.4)) drop-shadow(0 2px 4px rgba(30, 144, 255, 0.6));
+      background: linear-gradient(45deg, #1E90FF, #4A90E2, #6495ED, #87CEEB);
+      -webkit-background-clip: text;
+      background-clip: text;
+    }
+  </style>
 </div>
 <h3 align="center">Full Stack Web Developer & Database Engineer</h3>
 
