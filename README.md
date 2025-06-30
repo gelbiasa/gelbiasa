@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'M M. Isroqi Gelby Firmansyah</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Hi%20👋%20I'M%20M.%20Isroqi%20Gelby%20Firmansyah&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%26%20Database%20Engineer&descAlignY=55&descAlign=50" />
 <h3 align="center">Full Stack Web Developer & Database Engineer</h3>
 
 <p align="center">
