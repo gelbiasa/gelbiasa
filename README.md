@@ -1,49 +1,10 @@
-<style>
-.animated-header {
-  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
-  background-size: 400% 400%;
-  animation: gradientShift 4s ease infinite;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  font-size: 3rem;
-  font-weight: bold;
-  text-align: center;
-  margin: 20px 0;
-}
-
-@keyframes gradientShift {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-
-.floating {
-  animation: floating 3s ease-in-out infinite;
-}
-
-@keyframes floating {
-  0% { transform: translateY(0px); }
-  50% { transform: translateY(-10px); }
-  100% { transform: translateY(0px); }
-}
-
-.glow-effect {
-  animation: glow 2s ease-in-out infinite alternate;
-}
-
-@keyframes glow {
-  from {
-    text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #e60073, 0 0 20px #e60073;
-  }
-  to {
-    text-shadow: 0 0 10px #fff, 0 0 15px #ff4da6, 0 0 20px #ff4da6, 0 0 25px #ff4da6;
-  }
-}
-</style>
-<h1 class="animated-header floating glow-effect">
-    Hi 👋, I'M M. Isroqi Gelby Firmansyah
+<div align="center">
+  <h1>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+👋,+I'M+M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
+    </a>
   </h1>
+</div>
 <h3 align="center">Full Stack Web Developer & Database Engineer</h3>
 
 <p align="center">
