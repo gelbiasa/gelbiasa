@@ -22,10 +22,10 @@
 
 ### 📝 **About Me**
 
-- 🔭 Have Experience at UPA TIK Politeknik Negeri Malang as a backend developer.
-- 🌱 Studying at **Politeknik Negeri Malang** with a focus on Web Development and Database Engginer.
+- 🔭 Successfully completed a **5-month internship** at UPA TIK Politeknik Negeri Malang as a **Backend Developer**, developing the **PPID Polinema System** using **Laravel Framework**.
+- 🌱 Currently studying at **Politeknik Negeri Malang** with a focus on **Web Development** and **Database Engineering**.
 - 👯 Open to collaborate on **Web Development and UI/UX Design Projects**.
-- 💬 Ask me about **Web Development, UI/UX Design, and Data Analysis**.
+- 💬 Ask me about **Web Development, UI/UX Design, Laravel Development, and Data Analysis**.
 - 📞 Contact me at: **085606310648**.
 - 📫 Email: **gelbifirmansyah12@gmail.com**.
 
