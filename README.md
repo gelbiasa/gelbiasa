@@ -25,7 +25,7 @@
 - 🔭 Successfully completed a **5-month internship** at UPA TIK Politeknik Negeri Malang as a **Backend Developer**, developing the **PPID Polinema System** using **Laravel Framework**.
 - 💼 Currently doing an internship at **PT Multi Spunindo Jaya Tbk** as a **Full Stack Developer**.
 - 🌱 Currently studying at **Politeknik Negeri Malang** with a focus on **Web Development** and **Database Engineering**.
-- 👯 Open to collaborate on **Web Development, System Analyst, UI/UX Design Projects**.
+- 👯 Open to collaborate on **Web Development, System Analyst, Design Database, UI/UX Design Projects**.
 - 💬 Ask me about **Web Development, UI/UX Design, Laravel Development, and Data Analysis**.
 - 📞 Contact me at: **085606310648**.
 - 📫 Email: **gelbifirmansyah12@gmail.com**.
