@@ -26,7 +26,7 @@
 - 💼 Currently doing an internship at **PT Multi Spunindo Jaya Tbk** as a **Full Stack Developer**.
 - 🌱 Currently studying at **Politeknik Negeri Malang** with a focus on **Web Development** and **Database Engineering**.
 - 👯 Open to collaborate on **Web Development, System Analyst, Design Database, UI/UX Design Projects**.
-- 💬 Ask me about **Web Development, Database Engginer, UI/UX Design, Laravel Development, and Data Analysis**.
+- 💬 Ask me about **Web Development, Database Engginer, UI/UX Design, Laravel Development, System Analysis, and Data Analysis**.
 - 📞 Contact me at: **085804049240**.
 - 📫 Email: **gelbifirmansyah12@gmail.com**.
 
