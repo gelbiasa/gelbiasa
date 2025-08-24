@@ -27,8 +27,6 @@
 - 🌱 Currently studying at **Politeknik Negeri Malang** with a focus on **Web Development** and **Database Engineering**.
 - 👯 Open to collaborate on **Web Development, System Analyst, Design Database, UI/UX Design Projects**.
 - 💬 Ask me about **Web Development, Database Engginer, UI/UX Design, Laravel Development, System Analysis, and Data Analysis**.
-- 📞 Contact me at: **085804049240**.
-- 📫 Email: **gelbifirmansyah12@gmail.com**.
 
 ---
 
@@ -50,6 +48,12 @@
   </a>
   <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://wa.me/6285804049240" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  </a>
+  <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
 
