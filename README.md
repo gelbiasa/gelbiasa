@@ -20,13 +20,73 @@
 
 ---
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me+🚀;Full+Stack+Developer+💻;Database+Engineer+🗄️;UI/UX+Designer+🎨&font=Fira%20Code&center=true&width=380&height=50&color=FFD700&vCenter=true&size=20&duration=2500&pause=500" alt="About Me Typing SVG" />
+</div>
+
 ### 📝 **About Me**
 
-- 🔭 Successfully completed a **5-month internship** at UPA TIK Politeknik Negeri Malang as a **Backend Developer**, developing the **PPID Polinema System** using **Laravel Framework**.
-- 💼 Currently doing an internship at **PT Multi Spunindo Jaya Tbk** as a **Full Stack Developer (Laravel)** .
-- 🌱 Currently studying at **Politeknik Negeri Malang** with a focus on **Web Development** and **Database Engineering**.
-- 👯 Open to collaborate on **Web Development, System Analyst, Design Database, UI/UX Design Projects**.
-- 💬 Ask me about **Web Development, Database Engginer, UI/UX Design, Laravel Development, System Analysis, and Data Analysis**.
+<table>
+<tr>
+<td width="50%">
+
+#### 🔭 **Professional Experience**
+```
+✅ Backend Developer Intern (5 months)
+   📍 UPA TIK Politeknik Negeri Malang
+   🛠️ Developed PPID Polinema System
+   ⚡ Laravel Framework
+```
+
+#### 💼 **Current Position**
+```
+🚀 Full Stack Developer (Laravel)
+   📍 PT Multi Spunindo Jaya Tbk
+   ⏳ Currently Active
+```
+
+</td>
+<td width="50%">
+
+#### 🎓 **Education & Focus**
+```
+📚 Politeknik Negeri Malang
+🎯 Web Development
+🗄️ Database Engineering
+```
+
+#### 🤝 **Collaboration Areas**
+```
+🌐 Web Development
+🔍 System Analysis
+🗄️ Database Design
+🎨 UI/UX Design
+```
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### � **Ask Me About**
+
+<p>
+  <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
+  <img src="https://img.shields.io/badge/Database%20Engineering-4ECDC4?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Engineering">
+  <img src="https://img.shields.io/badge/UI/UX%20Design-45B7D1?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Laravel%20Development-96CEB4?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Development">
+  <img src="https://img.shields.io/badge/System%20Analysis-FFEAA7?style=for-the-badge&logo=analyze&logoColor=black" alt="System Analysis">
+  <img src="https://img.shields.io/badge/Data%20Analysis-DDA0DD?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analysis">
+</p>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
+</div>
 
 ---
 
