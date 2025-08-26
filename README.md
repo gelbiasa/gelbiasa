@@ -41,7 +41,7 @@
 #### 💼 **Current Position**
 ```
 🚀 Full Stack Developer (Laravel)
-   📍 PT Multi Spunindo Jaya Tbk
+   📍 PT Multi Spunindo Jaya Tbk (Intern)
    ⏳ Currently Active
 ```
 
