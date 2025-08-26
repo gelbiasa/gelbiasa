@@ -1,45 +1,6 @@
 <div align="center">
   <h1>
-    <a href="htt<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" />
-</div>
-
-<div align="center">
-
-### 💡 **Ask Me About**
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development"><br>
-  <sub><b>Frontend & Backend</b></sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/Database%20Engineering-4ECDC4?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Engineering"><br>
-  <sub><b>Design & Optimization</b></sub>
-</td>
-<td align="center" width="33%">
-  <img src="https://img.shields.io/badge/UI/UX%20Design-45B7D1?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design"><br>
-  <sub><b>User Experience</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-  <img src="https://img.shields.io/badge/Laravel%20Development-96CEB4?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Development"><br>
-  <sub><b>PHP Framework</b></sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/System%20Analysis-FFEAA7?style=for-the-badge&logo=analyze&logoColor=black" alt="System Analysis"><br>
-  <sub><b>Process Design</b></sub>
-</td>
-<td align="center">
-  <img src="https://img.shields.io/badge/Data%20Analysis-DDA0DD?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analysis"><br>
-  <sub><b>Insights & Reports</b></sub>
-</td>
-</tr>
-</table>
-
-</div>ng-svg">
+    <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.herokuapp.com/?lines=🌏+Hello+World+🌏&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
     </a>
   </h1>
@@ -60,11 +21,7 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me+🚀;Full+Stack+Developer+💻;Database+Engineer+🗄️;UI/UX+Designer+🎨&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=22&duration=2500&pause=500" alt="About Me Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=divider" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=About+Me+🚀;Full+Stack+Developer+💻;Database+Engineer+🗄️;UI/UX+Designer+🎨&font=Fira%20Code&center=true&width=380&height=50&color=FFD700&vCenter=true&size=20&duration=2500&pause=500" alt="About Me Typing SVG" />
 </div>
 
 ### 📝 **About Me**
@@ -105,7 +62,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=18&fontColor=fff&animation=twinkling&fontAlign=50&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
 
 ---
