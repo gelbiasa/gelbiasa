@@ -28,19 +28,53 @@
 
 <div align="center">
 
-| 🔭 **Professional Experience** | 🎓 **Education & Focus** |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" /> |
-| 📍 **UPA TIK Politeknik Negeri Malang** | 🎯 **Web Development Focus** |
-| 🛠️ **Developed PPID Polinema System** | 🗄️ **Database Engineering** |
-| ⚡ **Laravel Framework** | 📚 **Continuous Learning** |
+<table width="100%" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th align="center" width="50%">🔭 <strong>Professional Experience</strong></th>
+    <th align="center" width="50%">🎓 <strong>Education & Focus</strong></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
+    <td align="center">🎯 <strong>Web Development Focus</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🛠️ <strong>Developed PPID Polinema System</strong></td>
+    <td align="center">🗄️ <strong>Database Engineering</strong></td>
+  </tr>
+  <tr>
+    <td align="center">⚡ <strong>Laravel Framework</strong></td>
+    <td align="center">📚 <strong>Continuous Learning</strong></td>
+  </tr>
+</table>
 
-| 💼 **Current Position** | 🤝 **Collaboration Areas** |
-|:---:|:---:|
-| <img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /> | <img src="https://img.shields.io/badge/Open_to_Collaborate-Always-green?style=for-the-badge&logo=handshake&logoColor=white" /> |
-| 📍 **PT Multi Spunindo Jaya Tbk** | � **Web Development Projects** |
-| 🚀 **Currently Active Intern** | 🔍 **System Analysis & Design** |
-| ⏳ **Gaining Real Experience** | 🎨 **UI/UX Design Solutions** |
+<br>
+
+<table width="100%" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <th align="center" width="50%">💼 <strong>Current Position</strong></th>
+    <th align="center" width="50%">🤝 <strong>Collaboration Areas</strong></th>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-green?style=for-the-badge&logo=handshake&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
+    <td align="center">🔍 <strong>Web Development Projects</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🚀 <strong>Currently Active Intern</strong></td>
+    <td align="center">🔍 <strong>System Analysis & Design</strong></td>
+  </tr>
+  <tr>
+    <td align="center">⏳ <strong>Gaining Real Experience</strong></td>
+    <td align="center">🎨 <strong>UI/UX Design Solutions</strong></td>
+  </tr>
+</table>
 
 </div>
 
