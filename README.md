@@ -85,23 +85,6 @@
 </div>
 
 <div align="center">
-
-### � **Ask Me About**
-
-<p>
-  <img src="https://img.shields.io/badge/Web%20Development-FF6B6B?style=for-the-badge&logo=html5&logoColor=white" alt="Web Development">
-  <img src="https://img.shields.io/badge/Database%20Engineering-4ECDC4?style=for-the-badge&logo=mysql&logoColor=white" alt="Database Engineering">
-  <img src="https://img.shields.io/badge/UI/UX%20Design-45B7D1?style=for-the-badge&logo=figma&logoColor=white" alt="UI/UX Design">
-</p>
-<p>
-  <img src="https://img.shields.io/badge/Laravel%20Development-96CEB4?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Development">
-  <img src="https://img.shields.io/badge/System%20Analysis-FFEAA7?style=for-the-badge&logo=analyze&logoColor=black" alt="System Analysis">
-  <img src="https://img.shields.io/badge/Data%20Analysis-DDA0DD?style=for-the-badge&logo=chart.js&logoColor=white" alt="Data Analysis">
-</p>
-
-</div>
-
-<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Let's%20Build%20Something%20Amazing%20Together!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
 
