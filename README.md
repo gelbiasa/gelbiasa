@@ -191,7 +191,6 @@
 
 ---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gelbiasa&theme=github_dark" width="100%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelbiasa&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelbiasa&theme=github_dark" width="49%" />
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gelbiasa&theme=github-dark&hide_border=false" />
