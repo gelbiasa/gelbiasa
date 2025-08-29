@@ -193,20 +193,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelbiasa&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelbiasa&theme=github_dark" width="49%" />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=📈+GitHub+Activity+Graph+📈;🔥+Contribution+Journey+🔥;⚡+Coding+Progress+⚡&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Activity Graph Title" />
-    </a>
-  </h2>
-</div>
-
-<br><br>
-
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gelbiasa&theme=high-contrast&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15&custom_title=🌟%20Contribution%20Activity%20🌟&area_color=FFD700" />
 </a>
