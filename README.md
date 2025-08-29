@@ -169,13 +169,17 @@
   </a>
 </p>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 <div align="center">
 
 ### 📊 **My GitHub Stats**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&ring_color=000000)
 
