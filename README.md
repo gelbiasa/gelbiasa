@@ -25,6 +25,10 @@
 </div>
 
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=16&fontColor=fff&animation=fadeIn" />
 </div>
 
