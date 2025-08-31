@@ -88,7 +88,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Stay%20Calm%20!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 ### 🌐 **Portfolio & CV**
 
