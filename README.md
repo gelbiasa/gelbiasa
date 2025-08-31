@@ -97,7 +97,9 @@
 - 🖥️ [View My Portfolio](https://gelbiasa.github.io/)
 - 📄 [View My CV](https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing)
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 ### 🤝 **Connect with Me**
 
