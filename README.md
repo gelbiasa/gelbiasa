@@ -195,13 +195,17 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=10&card_width=1000&background=1C1C1C&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&stroke=FFD700)
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 <div align="center">
 
 ### 📈 **My Grafik Stats**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelbiasa&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelbiasa&theme=github_dark" width="49%" />
 
