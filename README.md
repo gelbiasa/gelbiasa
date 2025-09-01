@@ -227,7 +227,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" />
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 ✨ **Thank You for Visiting My Profile!** ✨
 
