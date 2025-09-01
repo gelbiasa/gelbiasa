@@ -221,7 +221,9 @@
 
 ### 🏆 **My Github Trophies**
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" />
 
