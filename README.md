@@ -213,7 +213,9 @@
   <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gelbiasa&theme=high-contrast&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15&custom_title=🌟%20Contribution%20Activity%20🌟&area_color=FFD700" />
 </a>
 
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
 
 <div align="center">
 
