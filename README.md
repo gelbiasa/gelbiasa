@@ -103,23 +103,73 @@
 
 ### 🤝 **Connect with Me**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/gelbiasa" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://wa.me/6285804049240" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
-  </a>
-  <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+<div align="center">
+  <h2>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=📱+Let's+Connect+📱;💬+Reach+Out+to+Me+💬;🌐+Social+Networks+🌐&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
+    </a>
+  </h2>
+</div>
+
+<div align="center">
+
+<table width="100%" style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+      </a>
+      <br><br>
+      <strong>🔗 LinkedIn</strong><br>
+      <sub>Professional Network</sub><br>
+      <code>@gelbifirmansyah</code>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://instagram.com/gelbiasa" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120">
+      </a>
+      <br><br>
+      <strong>📸 Instagram</strong><br>
+      <sub>Personal Updates</sub><br>
+      <code>@gelbiasa</code>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120">
+      </a>
+      <br><br>
+      <strong>🎥 YouTube</strong><br>
+      <sub>Tech Content</sub><br>
+      <code>@gelbifirmansyah5697</code>
+    </td>
+    <td align="center" width="20%">
+      <a href="https://wa.me/6285804049240" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120">
+      </a>
+      <br><br>
+      <strong>💬 WhatsApp</strong><br>
+      <sub>Direct Message</sub><br>
+      <code>+62 858-0404-9240</code>
+    </td>
+    <td align="center" width="20%">
+      <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120">
+      </a>
+      <br><br>
+      <strong>📧 Email</strong><br>
+      <sub>Professional Contact</sub><br>
+      <code>gelbifirmansyah12@gmail.com</code>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&text=Feel%20Free%20to%20Contact%20Me!&fontSize=16&fontColor=FFD700&animation=twinkling" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
