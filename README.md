@@ -117,38 +117,38 @@
   <tr>
     <td align="center" width="20%">
       <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="35">
       </a>
       <br><br>
-      <code>@gelbifirmansyah</code>
+      <strong><code>@gelbifirmansyah</code></strong>
     </td>
     <td align="center" width="20%">
       <a href="https://instagram.com/gelbiasa" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" height="35">
       </a>
       <br><br>
-      <code>@gelbiasa</code>
+      <strong><code>@gelbiasa</code></strong>
     </td>
     <td align="center" width="20%">
       <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120" height="35">
       </a>
       <br><br>
-      <code>@gelbifirmansyah5697</code>
+      <strong><code>@gelbifirmansyah5697</code></strong>
     </td>
     <td align="center" width="20%">
       <a href="https://wa.me/6285804049240" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120" height="35">
       </a>
       <br><br>
-      <code>+62 858-0404-9240</code>
+      <strong><code>+62 858-0404-9240</code></strong>
     </td>
     <td align="center" width="20%">
       <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120" height="35">
       </a>
       <br><br>
-      <code>gelbifirmansyah12@gmail.com</code>
+      <strong><code>gelbifirmansyah12@gmail.com</code></strong>
     </td>
   </tr>
 </table>
