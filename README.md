@@ -120,8 +120,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
       </a>
       <br><br>
-      <strong>🔗 LinkedIn</strong><br>
-      <sub>Professional Network</sub><br>
       <code>@gelbifirmansyah</code>
     </td>
     <td align="center" width="20%">
@@ -129,8 +127,6 @@
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120">
       </a>
       <br><br>
-      <strong>📸 Instagram</strong><br>
-      <sub>Personal Updates</sub><br>
       <code>@gelbiasa</code>
     </td>
     <td align="center" width="20%">
@@ -138,8 +134,6 @@
         <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120">
       </a>
       <br><br>
-      <strong>🎥 YouTube</strong><br>
-      <sub>Tech Content</sub><br>
       <code>@gelbifirmansyah5697</code>
     </td>
     <td align="center" width="20%">
@@ -147,8 +141,6 @@
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120">
       </a>
       <br><br>
-      <strong>💬 WhatsApp</strong><br>
-      <sub>Direct Message</sub><br>
       <code>+62 858-0404-9240</code>
     </td>
     <td align="center" width="20%">
@@ -156,8 +148,6 @@
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120">
       </a>
       <br><br>
-      <strong>📧 Email</strong><br>
-      <sub>Professional Contact</sub><br>
       <code>gelbifirmansyah12@gmail.com</code>
     </td>
   </tr>
