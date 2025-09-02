@@ -106,99 +106,53 @@
 <div align="center">
   <h2>
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=🌟+Let's+Connect+and+Collaborate+🌟;💫+Building+Professional+Networks+💫;🚀+Always+Open+for+Opportunities+🚀&font=Fira%20Code&center=true&width=650&height=60&color=FFD700&vCenter=true&size=22&duration=3000&pause=1200" alt="Connect Animation" />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=📱+Let's+Connect+📱;💬+Reach+Out+to+Me+💬;🌐+Social+Networks+🌐&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
     </a>
   </h2>
 </div>
 
-<br>
-
 <div align="center">
 
-<table width="100%" style="width: 100%; border-collapse: collapse; background: linear-gradient(135deg, #0D1117 0%, #161B22 100%); border-radius: 15px; padding: 20px;">
+<table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="center" width="20%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #0077B5, #005885); border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(0,119,181,0.3);">
-        <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130">
-        </a>
-        <br><br>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 8px; margin-top: 10px;">
-          <code style="color: #FFD700; font-size: 14px; font-weight: bold;">@gelbifirmansyah</code>
-        </div>
-        <br>
-        <sub style="color: #87CEEB;">Professional Network</sub>
-      </div>
+    <td align="center" width="20%">
+      <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120">
+      </a>
+      <br><br>
+      <code>@gelbifirmansyah</code>
     </td>
-    <td align="center" width="20%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #E4405F, #C73650); border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(228,64,95,0.3);">
-        <a href="https://instagram.com/gelbiasa" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="130">
-        </a>
-        <br><br>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 8px; margin-top: 10px;">
-          <code style="color: #FFD700; font-size: 14px; font-weight: bold;">@gelbiasa</code>
-        </div>
-        <br>
-        <sub style="color: #FFB6C1;">Personal Updates</sub>
-      </div>
+    <td align="center" width="20%">
+      <a href="https://instagram.com/gelbiasa" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120">
+      </a>
+      <br><br>
+      <code>@gelbiasa</code>
     </td>
-    <td align="center" width="20%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #FF0000, #CC0000); border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(255,0,0,0.3);">
-        <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="130">
-        </a>
-        <br><br>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 8px; margin-top: 10px;">
-          <code style="color: #FFD700; font-size: 14px; font-weight: bold;">@gelbifirmansyah5697</code>
-        </div>
-        <br>
-        <sub style="color: #FFA07A;">Tech Content</sub>
-      </div>
+    <td align="center" width="20%">
+      <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120">
+      </a>
+      <br><br>
+      <code>@gelbifirmansyah5697</code>
     </td>
-    <td align="center" width="20%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #25D366, #1DA851); border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(37,211,102,0.3);">
-        <a href="https://wa.me/6285804049240" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="130">
-        </a>
-        <br><br>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 8px; margin-top: 10px;">
-          <code style="color: #FFD700; font-size: 14px; font-weight: bold;">+62 858-0404-9240</code>
-        </div>
-        <br>
-        <sub style="color: #98FB98;">Direct Chat</sub>
-      </div>
+    <td align="center" width="20%">
+      <a href="https://wa.me/6285804049240" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120">
+      </a>
+      <br><br>
+      <code>+62 858-0404-9240</code>
     </td>
-    <td align="center" width="20%" style="padding: 15px;">
-      <div style="background: linear-gradient(135deg, #D14836, #B23121); border-radius: 12px; padding: 20px; margin: 10px; box-shadow: 0 4px 15px rgba(209,72,54,0.3);">
-        <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="130">
-        </a>
-        <br><br>
-        <div style="background: rgba(255,255,255,0.1); border-radius: 8px; padding: 8px; margin-top: 10px;">
-          <code style="color: #FFD700; font-size: 12px; font-weight: bold;">gelbifirmansyah12@gmail.com</code>
-        </div>
-        <br>
-        <sub style="color: #F0A0A0;">Business Contact</sub>
-      </div>
+    <td align="center" width="20%">
+      <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120">
+      </a>
+      <br><br>
+      <code>gelbifirmansyah12@gmail.com</code>
     </td>
   </tr>
 </table>
 
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/💬-Always_Available_for_Collaboration-FFD700?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/🤝-Open_to_New_Opportunities-00FF00?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/⚡-Quick_Response_Guaranteed-FF6B6B?style=for-the-badge&logoColor=white" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Feel%20Free%20to%20Reach%20Out%20Anytime!&fontSize=18&fontColor=FFD700&animation=twinkling" />
 </div>
 
 <br>
