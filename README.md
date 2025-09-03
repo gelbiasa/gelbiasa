@@ -102,11 +102,9 @@
 </div>
 
 <div align="center">
-  <h2>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=📱+Let's+Connect+📱;💬+Reach+Out+to+Me+💬;🌐+Social+Networks+🌐&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
-    </a>
-  </h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=📱+Let's+Connect+📱;💬+Reach+Out+to+Me+💬;🌐+Social+Networks+🌐&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
+  </a>
 </div>
 
 <div align="center">
