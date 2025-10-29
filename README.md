@@ -257,7 +257,7 @@
 
 <div align="center">
 
-### 🏆 **My Github Trophies**
+### 🏆 **My Github Achiv**
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
