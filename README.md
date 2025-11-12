@@ -45,7 +45,7 @@
   </tr>
   <tr>
     <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
-    <td align="center">🎯 <strong>Web Development Focus</strong></td>
+    <td align="center">🎯 <strong>Web Development</strong></td>
   </tr>
   <tr>
     <td align="center">🛠️ <strong>Developed PPID Polinema System</strong></td>
