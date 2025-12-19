@@ -37,7 +37,7 @@
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
     <th align="center" width="50%">🔭 <strong>Professional Experience</strong></th>
-    <th align="center" width="50%">🎓 <strong>Focus and Chil</strong></th>
+    <th align="center" width="50%">🎓 <strong>Focus But Chil</strong></th>
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=laravel&logoColor=white" /></td>
