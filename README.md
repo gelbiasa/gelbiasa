@@ -53,7 +53,7 @@
   </tr>
   <tr>
     <td align="center">⚡ <strong>Laravel Framework</strong></td>
-    <td align="center">📚 <strong>Continuous Learning</strong></td>
+    <td align="center">📚 <strong>Contin Learning</strong></td>
   </tr>
 </table>
 
