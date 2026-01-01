@@ -227,6 +227,13 @@
 
 <br>
 
+<!-- GitHub Stats with Multiple Fallback Options -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+  <img alt="GitHub Stats" src="https://github-readme-stats-salesp07.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700" />
+</picture>
+
 
 
 <div align="center">
