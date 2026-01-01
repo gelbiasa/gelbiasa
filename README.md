@@ -241,7 +241,12 @@
   <img alt="Top Languages" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&border_radius=10&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&border_color=FFD700" />
 </picture>
 
-
+<!-- GitHub Streak with Multiple Fallback Options -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=10&background=1C1C1C&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&stroke=FFD700" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=10&background=1C1C1C&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&stroke=FFD700" />
+  <img alt="GitHub Streak" src="https://nirzak-streak-stats.vercel.app?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=10&background=1C1C1C&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&stroke=FFD700" />
+</picture>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
