@@ -227,11 +227,7 @@
 
 <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&border_color=FFD700&ring_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=radical&hide_border=false&border_radius=10&card_width=1000&bg_color=30,1C1C1C,2D2D2D,FFD700&title_color=FFD700&text_color=FFFFFF&border_color=FFD700)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gelbiasa&theme=highcontrast&hide_border=false&border_radius=10&card_width=1000&background=1C1C1C&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFD700&dates=FFFFFF&stroke=FFD700)
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
