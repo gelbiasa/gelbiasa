@@ -227,7 +227,13 @@
 
 <br>
 
-
+<!-- GitHub Stats Card -->
+<div align="center">
+  <a href="https://github.com/gelbiasa">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10"/>
+  </a>
+</div>
 
 <!-- GitHub Streak Stats -->
 <div align="center">
