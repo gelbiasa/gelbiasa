@@ -238,7 +238,7 @@
 <!-- GitHub Streak Stats -->
 <div align="center">
   <a href="https://github.com/gelbiasa">
-    <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10" alt="GitHub Streak Stats"/>
+    <img src="https://raw.githubusercontent.com/gelbiasa/gelbiasa/main/assets/streak-stats.svg" alt="GitHub Streak Stats"/>
   </a>
 </div>
 
