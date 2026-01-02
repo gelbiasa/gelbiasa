@@ -227,14 +227,14 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF&border_radius=10" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gelbiasa&theme=tokyonight&hide_border=true&background=0D1117&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&border_radius=10" alt="GitHub Streak" width="48%" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700&text_color=FFFFFF&border_radius=10" alt="Top Languages" width="48%" />
-</p>
+
+<!-- GitHub Streak Stats -->
+<div align="center">
+  <a href="https://github.com/gelbiasa">
+    <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10" alt="GitHub Streak Stats"/>
+  </a>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
