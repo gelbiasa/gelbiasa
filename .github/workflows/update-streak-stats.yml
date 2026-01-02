@@ -1,0 +1,25 @@
+name: Update GitHub Streak Stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Setiap hari jam 00:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-streak-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download streak stats SVG
+        run: |
+          curl -L "https://streak-stats.demolab.com/?user=gelbiasa" -o assets/streak-stats.svg
+
+      - name: Commit and push if changed
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add assets/streak-stats.svg
+          git diff --cached --quiet || git commit -m "Update GitHub Streak Stats SVG [bot]"
+          git push
