@@ -252,14 +252,6 @@
   </table>
 </div>
 
-<!-- GitHub Streak Stats -->
-<div align="center">
-  <a href="https://github.com/gelbiasa">
-  <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10" alt="GitHub Streak Stats gelbiasa" onerror="this.onerror=null;this.src='https:media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
-  </a>
-  <br/>
-  <sub>Jika gambar tidak muncul, <a href="https://streak-stats.demolab.com/demo/">cek status streak API</a> atau kunjungi <a href="https://github.com/gelbiasa">profil GitHub saya</a>.</sub>
-</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
