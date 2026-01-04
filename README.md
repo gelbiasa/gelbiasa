@@ -245,9 +245,7 @@
     </tr>
     <tr>
       <td colspan="2" align="center">
-        <br>
-        <em>Jika statistik tidak muncul, lihat animasi di bawah ini:</em>
-        <br>
+  <br>
         <img src="https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif" alt="Error Animation" height="100"/>
       </td>
     </tr>
