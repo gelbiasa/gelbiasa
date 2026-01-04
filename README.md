@@ -229,12 +229,24 @@
 
 <!-- GitHub Stats Card -->
 <div align="center">
-  <a href="https://github.com/gelbiasa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10" alt="GitHub Stats gelbiasa" onerror="this.onerror=null;this.src='https:media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10" alt="Top Languages gelbiasa" onerror="this.onerror=null;this.src='https:media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
-  </a>
-  <br/>
-  <sub>Jika gambar tidak muncul, kunjungi <a href="https://github.com/gelbiasa">profil GitHub saya</a> atau <a href="https://github-readme-stats.vercel.app/api?username=gelbiasa">stats API</a>.</sub>
+  <table width="100%" style="width:100%; border-collapse:collapse; text-align:center;">
+    <tr>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10" alt="GitHub Stats gelbiasa" onerror="this.onerror=null;this.src='https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
+        <br><sub>Animasi</sub>
+      </td>
+      <td align="center" width="50%">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10" alt="Top Languages gelbiasa" onerror="this.onerror=null;this.src='https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
+        <br><sub>Animasi</sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10" alt="GitHub Streak Stats gelbiasa" onerror="this.onerror=null;this.src='https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif';"/>
+        <br><sub>Animasi</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <!-- GitHub Streak Stats -->
