@@ -248,7 +248,9 @@
         <br>
   <img src="https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif" alt="Error Animation" height="100"/>
   <br>
-  <sub><em>Statistik tidak dapat ditampilkan karena API gagal diambil. Silakan refresh halaman atau coba beberapa saat lagi.</em></sub>
+        <div style="color:#FFD700; background:#222; border-radius:8px; padding:8px 16px; margin-top:8px; display:inline-block; font-size:14px; font-weight:bold; border:1px solid #FFD700;">
+          ⚠️ Statistik tidak dapat ditampilkan karena API gagal diambil.<br>Silakan refresh halaman atau coba beberapa saat lagi.
+        </div>
       </td>
     </tr>
   </table>
