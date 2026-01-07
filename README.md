@@ -163,10 +163,19 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 </div>
 
+<div align="center">
+
 ### 💻 **Tech Stack**
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
+
+<br>
+
 #### 🚀 **Programming Languages & Frameworks**
-<p align="left">
+
+<div align="center">
   <a href="https://www.w3.org/html/" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   </a>
@@ -182,6 +191,7 @@
   <a href="https://www.java.com" target="_blank">
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
+  <br>
   <a href="https://dart.dev" target="_blank">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
@@ -197,21 +207,33 @@
   <a href="https://getbootstrap.com" target="_blank">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
   </a>
-</p>
+</div>
+
+<br>
 
 #### 🗄️ **Database**
-<p align="left">
+
+<div align="center">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   </a>
-</p>
+</div>
+
+<br>
 
 #### 🛠️ **Tools**
-<p align="left">
+
+<div align="center">
   <a href="https://www.mysql.com/products/workbench/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench">
   </a>
-</p>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
