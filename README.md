@@ -229,10 +229,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
 </div>
 
 <div align="center">
