@@ -306,7 +306,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" alt="GitHub Trophy gelbiasa" />
 <br>
-<img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="Error Animation" height="100"/>
+<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" alt="Error Animation" height="100"/>
 <div style="color:#FFD700; background:#222; border-radius:8px; padding:8px 16px; margin-top:8px; display:inline-block; font-size:14px; font-weight:bold; border:1px solid #FFD700;">
   GitHub Trophy tidak dapat ditampilkan karena API gagal diambil.<br>Silakan refresh halaman atau coba beberapa saat lagi.
 </div>
