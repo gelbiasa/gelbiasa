@@ -70,7 +70,7 @@
   </tr>
   <tr>
     <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
-    <td align="center">🔍 <strong>Web Development Projects BOM (Bill of Materials)</strong></td>
+    <td align="center">🔍 <strong>Web Development Projects</strong></td>
   </tr>
   <tr>
     <td align="center">🚀 <strong>Currently Active Intern</strong></td>
