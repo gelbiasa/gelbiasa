@@ -92,10 +92,36 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 </div>
 
+<div align="center">
+
 ### 🌐 **Portfolio & CV**
 
-- 🖥️ [View My Portfolio](https://gelbiasa.github.io/)
-- 📄 [View My CV](https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing)
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
+</div>
+
+<br>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" style="border: none;" width="50%">
+      <a href="https://gelbiasa.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/�️_View_My_Portfolio-FFD700?style=for-the-badge&logoColor=white" alt="Portfolio" height="50"/>
+      </a>
+      <br><br>
+      <strong>🌟 Explore My Projects & Works</strong>
+    </td>
+    <td align="center" style="border: none;" width="50%">
+      <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/📄_View_My_CV-FF6B6B?style=for-the-badge&logoColor=white" alt="CV" height="50"/>
+      </a>
+      <br><br>
+      <strong>📋 Download My Resume</strong>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
