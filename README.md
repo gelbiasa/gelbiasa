@@ -1,6 +1,27 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌙+بِسْمِ+اللهِ+الرَّحْمَنِ+الرَّحِيْمِ+🌙&font=Fira%20Code&center=true&width=700&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.he<table align="center" style="border: none; width: 80%;">
+  <tr>
+    <td align="center" style="border: none; padding: 20px;" width="50%">
+      <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        <h2 style="color: #FFD700; margin: 0 0 15px 0;">🖥️ Portfolio</h2>
+        <p style="color: #ffffff; margin: 10px 0;">Explore My Projects & Works</p>
+        <a href="https://gelbiasa.github.io/" target="_blank" style="display: inline-block; background: #FFD700; color: #000; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 15px; transition: transform 0.3s;">
+          👉 Visit Portfolio
+        </a>
+      </div>
+    </td>
+    <td align="center" style="border: none; padding: 20px;" width="50%">
+      <div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 30px; border-radius: 15px; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+        <h2 style="color: #FFD700; margin: 0 0 15px 0;">📄 Resume / CV</h2>
+        <p style="color: #ffffff; margin: 10px 0;">Download My Resume</p>
+        <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank" style="display: inline-block; background: #FFD700; color: #000; padding: 12px 30px; border-radius: 25px; text-decoration: none; font-weight: bold; margin-top: 15px; transition: transform 0.3s;">
+          👉 View CV
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>=🌙+بِسْمِ+اللهِ+الرَّحْمَنِ+الرَّحِيْمِ+🌙&font=Fira%20Code&center=true&width=700&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
   </a>
 </div>
 <div align="center">
