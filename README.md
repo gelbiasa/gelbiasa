@@ -92,18 +92,9 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 </div>
 
-### 🌐 **Portfolio & CV**
-
-- 🖥️ [View My Portfolio](https://gelbiasa.github.io/)
-- 📄 [View My CV](https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing)
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=📱+Let's+Connect+📱;💬+Reach+Out+to+Me+💬;🌐+Social+Networks+🌐&font=Fira%20Code&center=true&width=500&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Portfolio+%26+CV+|+Social+Network+🌐;📱+Let's+Connect+📱&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
   </a>
 </div>
 
@@ -113,40 +104,42 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td align="center" width="20%">
+    <th align="center" width="50%">🌐 <strong>Portfolio & CV</strong></th>
+    <th align="center" width="50%">📱 <strong>Social Network</strong></th>
+  </tr>
+  <tr>
+    <td align="center" rowspan="2">
+      <a href="https://gelbiasa.github.io/" target="_blank">
+        <img src="https://img.shields.io/badge/🖥️_View_My_Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="200" height="40">
+      </a>
+      <br><br>
+      <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
+        <img src="https://img.shields.io/badge/📄_View_My_CV-34A853?style=for-the-badge&logo=google-drive&logoColor=white" alt="CV" width="200" height="40">
+      </a>
+    </td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="35">
+        <img src="https://img.shields.io/badge/My_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="130" height="35">
       </a>
-      <br><br>
-      <strong><code>@gelbifirmansyah</code></strong>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://instagram.com/gelbiasa" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="120" height="35">
-      </a>
-      <br><br>
-      <strong><code>@gelbiasa</code></strong>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="120" height="35">
-      </a>
-      <br><br>
-      <strong><code>@gelbifirmansyah5697</code></strong>
-    </td>
-    <td align="center" width="20%">
+      &nbsp;&nbsp;
       <a href="https://wa.me/6285804049240" target="_blank">
-        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="120" height="35">
+        <img src="https://img.shields.io/badge/My_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="130" height="35">
       </a>
-      <br><br>
-      <strong><code>+62 858-0404-9240</code></strong>
+      &nbsp;&nbsp;
+      <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+        <img src="https://img.shields.io/badge/My_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" width="130" height="35">
+      </a>
     </td>
-    <td align="center" width="20%">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" width="120" height="35">
+        <img src="https://img.shields.io/badge/My_Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" width="130" height="35">
       </a>
-      <br><br>
-      <strong><code>gelbifirmansyah12@gmail.com</code></strong>
+      &nbsp;&nbsp;
+      <a href="https://instagram.com/gelbiasa" target="_blank">
+        <img src="https://img.shields.io/badge/My_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" width="130" height="35">
+      </a>
     </td>
   </tr>
 </table>
