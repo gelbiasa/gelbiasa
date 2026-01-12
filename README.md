@@ -108,23 +108,26 @@
     <th align="center" width="50%">📱 <strong>Social Network</strong></th>
   </tr>
   <tr>
-    <td align="left" style="padding-left: 100px;" rowspan="2">
+    <td align="left" style="padding-left: 100px;" rowspan="3">
       🖥️ <a href="https://gelbiasa.github.io/" target="_blank"><strong>View My Portfolio</strong></a>
       <br><br>
       📄 <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank"><strong>View My CV</strong></a>
     </td>
-    <td align="left" style="padding-left: 50px;">
+    <td align="center">
       💼 <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank"><strong>My LinkedIn</strong></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       💬 <a href="https://wa.me/6285804049240" target="_blank"><strong>My WhatsApp</strong></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
       🎥 <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank"><strong>My YouTube</strong></a>
     </td>
   </tr>
   <tr>
-    <td align="left" style="padding-left: 50px;">
+    <td align="center">
       📧 <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank"><strong>My Gmail</strong></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       📸 <a href="https://instagram.com/gelbiasa" target="_blank"><strong>My Instagram</strong></a>
     </td>
   </tr>
