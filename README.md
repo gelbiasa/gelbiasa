@@ -100,39 +100,22 @@
 
 <br>
 
-<div align="center">
-
-<table width="100%" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <th align="center" width="50%">🌐 <strong>Portfolio & CV</strong></th>
-    <th align="center" width="50%">📱 <strong>Social Network</strong></th>
-  </tr>
-  <tr>
-    <td align="left" style="padding-left: 100px;" rowspan="3">
-      🖥️ <a href="https://gelbiasa.github.io/" target="_blank"><strong>View My Portfolio</strong></a>
-      <br><br>
-      📄 <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank"><strong>View My CV</strong></a>
-    </td>
-    <td align="center">
-      💼 <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank"><strong>My LinkedIn</strong></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      💬 <a href="https://wa.me/6285804049240" target="_blank"><strong>My WhatsApp</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      🎥 <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank"><strong>My YouTube</strong></a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      📧 <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank"><strong>My Gmail</strong></a>
-      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-      📸 <a href="https://instagram.com/gelbiasa" target="_blank"><strong>My Instagram</strong></a>
-    </td>
-  </tr>
-</table>
-
+<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
+  
+  <div style="text-align: left; flex: 1; max-width: 400px;">
+    <h3>🌐 Portfolio & CV</h3>
+    <p>● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
+    <p>● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
+  </div>
+  
+  <div style="border-left: 3px solid #FFD700; height: 120px; margin: 0 20px;"></div>
+  
+  <div style="text-align: left; flex: 1; max-width: 400px;">
+    <h3>📱 Social Network</h3>
+    <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
+    <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
+  </div>
+  
 </div>
 
 <br>
