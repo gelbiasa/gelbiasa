@@ -225,17 +225,9 @@
         <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10" alt="GitHub Streak Stats gelbiasa"/>
       </td>
     </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <br>
-  <img src="https://media.giphy.com/media/UoeaPqYrimha6rdTFV/giphy.gif" alt="Error Animation" height="100"/>
-  <br>
-        <div style="color:#FFD700; background:#222; border-radius:8px; padding:8px 16px; margin-top:8px; display:inline-block; font-size:14px; font-weight:bold; border:1px solid #FFD700;">
-          Statistik tidak dapat ditampilkan karena API gagal diambil.<br>Silakan refresh halaman atau coba beberapa saat lagi.
-        </div>
-      </td>
-    </tr>
   </table>
+  <br>
+  -//-
 </div>
 
 
@@ -271,10 +263,7 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" alt="GitHub Trophy gelbiasa" />
 <br>
-<img src="https://media.giphy.com/media/8L0Pky6C83SzkzU55a/giphy.gif" alt="Error Animation" height="100"/>
-<div style="color:#FFD700; background:#222; border-radius:8px; padding:8px 16px; margin-top:8px; display:inline-block; font-size:14px; font-weight:bold; border:1px solid #FFD700;">
-  GitHub Trophy tidak dapat ditampilkan karena API gagal diambil.<br>Silakan refresh halaman atau coba beberapa saat lagi.
-</div>
+-//-
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
