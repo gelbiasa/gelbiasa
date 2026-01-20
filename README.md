@@ -263,7 +263,9 @@
 
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" alt="GitHub Trophy gelbiasa" />
 <br>
--//-
+<p style="color:#FFD700; font-size:12px; font-style:italic;">
+  💡 <em>Bila trophy tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
