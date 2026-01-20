@@ -227,7 +227,9 @@
     </tr>
   </table>
   <br>
-  -//-
+  <p style="color:#FFD700; font-size:12px; font-style:italic;">
+    💡 <em>Bila statistik tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
+  </p>
 </div>
 
 
