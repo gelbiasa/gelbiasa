@@ -100,23 +100,21 @@
 
 <br>
 
-<div align="center" style="display: flex; justify-content: center; align-items: flex-start; gap: 50px;">
-  
-  <div style="text-align: left; flex: 1; max-width: 400px;">
-    <h3>🌐 Portfolio & CV</h3>
-    <p>● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
-    <p>● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
-  </div>
-  
-  <div style="border-left: 3px solid #FFD700; height: 120px; margin: 0 20px;"></div>
-  
-  <div style="text-align: left; flex: 1; max-width: 400px;">
-    <h3>📱 Social Network</h3>
-    <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
-    <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a>&nbsp;&nbsp;&nbsp;&nbsp;● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
-  </div>
-  
-</div>
+<table align="center" width="80%">
+  <tr>
+    <td align="center" width="45%" valign="top">
+      <h3>🌐 Portfolio & CV</h3>
+      <p>● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
+      <p>● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
+    </td>
+    <td width="10%" style="border-left: 3px solid #FFD700;"></td>
+    <td align="center" width="45%" valign="top">
+      <h3>📱 Social Network</h3>
+      <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a>&nbsp;&nbsp;● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a>&nbsp;&nbsp;● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
+      <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a>&nbsp;&nbsp;● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
+    </td>
+  </tr>
+</table>
 
 <br>
 
