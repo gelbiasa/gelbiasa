@@ -109,8 +109,11 @@
     </td>
     <td align="center" width="50%" valign="top" style="border-left: 3px solid #FFD700;">
       <h3>📱 Social Network</h3>
-      <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a>&nbsp;&nbsp;● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a>&nbsp;&nbsp;● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
-      <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a>&nbsp;&nbsp;● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
+      <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a></p>
+      <p>● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a></p>
+      <p>● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
+      <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a></p>
+      <p>● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
     </td>
   </tr>
 </table>
