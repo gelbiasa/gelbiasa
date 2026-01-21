@@ -102,13 +102,12 @@
 
 <table align="center" width="80%">
   <tr>
-    <td align="center" width="45%" valign="top">
+    <td align="center" width="50%" valign="top">
       <h3>🌐 Portfolio & CV</h3>
       <p>● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
       <p>● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
     </td>
-    <td width="10%" style="border-left: 3px solid #FFD700;"></td>
-    <td align="center" width="45%" valign="top">
+    <td align="center" width="50%" valign="top" style="border-left: 3px solid #FFD700;">
       <h3>📱 Social Network</h3>
       <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a>&nbsp;&nbsp;● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a>&nbsp;&nbsp;● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
       <p>● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a>&nbsp;&nbsp;● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
