@@ -100,7 +100,7 @@
 
 <br>
 
-<table align="center" width="80%">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top" style="padding-left: 20px;">
       <h3 align="center">🌐 Portfolio & CV</h3>
