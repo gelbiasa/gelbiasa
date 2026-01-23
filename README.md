@@ -100,14 +100,14 @@
 
 <br>
 
-<table align="center" width="100%">
+<table align="center" width="100%" style="table-layout: fixed;">
   <tr>
-    <td width="50%" valign="top" style="padding-left: 50px; padding-right: 30px;">
+    <td width="50%" valign="top" style="padding-left: 100px; padding-right: 50px; min-width: 300px;">
       <h3 align="center" style="white-space: nowrap;">🌐 Portfolio & CV</h3>
       <p>● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
       <p>● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
     </td>
-    <td width="50%" valign="top" style="border-left: 3px solid #FFD700; padding-left: 50px; padding-right: 30px;">
+    <td width="50%" valign="top" style="border-left: 3px solid #FFD700; padding-left: 100px; padding-right: 50px; min-width: 300px;">
       <h3 align="center" style="white-space: nowrap;">📱 Social Network</h3>
       <p>● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a></p>
       <p>● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a></p>
