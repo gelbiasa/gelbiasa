@@ -100,20 +100,51 @@
 
 <br>
 
-<table align="center" width="100%" style="table-layout: fixed;">
+<table align="center" width="95%">
   <tr>
-    <td width="50%" valign="top" style="padding-left: 20px; padding-right: 20px;">
-      <h3 align="center" style="white-space: nowrap;">🌐 Portfolio & CV</h3>
-      <p style="font-size: 16px;">● <a href="https://gelbiasa.github.io/" target="_blank">View My Portfolio</a></p>
-      <p style="font-size: 16px;">● <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">View My CV</a></p>
+    <td width="47%" valign="top">
+      <h3 align="center">🌐 Portfolio & CV</h3>
+      <p align="center">
+        <a href="https://gelbiasa.github.io/" target="_blank">
+          <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Now-FFD700?style=for-the-badge&labelColor=0d1117" alt="Portfolio" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
+          <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-Download-FFD700?style=for-the-badge&labelColor=0d1117" alt="CV" />
+        </a>
+      </p>
     </td>
-    <td width="50%" valign="top" style="border-left: 30px solid #FFD700; padding-left: 20px; padding-right: 20px;">
-      <h3 align="center" style="white-space: nowrap;">📱 Social Network</h3>
-      <p style="font-size: 16px;">● <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">My LinkedIn</a></p>
-      <p style="font-size: 16px;">● <a href="https://instagram.com/gelbiasa" target="_blank">My Instagram</a></p>
-      <p style="font-size: 16px;">● <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">My YouTube</a></p>
-      <p style="font-size: 16px;">● <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">My Gmail</a></p>
-      <p style="font-size: 16px;">● <a href="https://wa.me/6285804049240" target="_blank">My WhatsApp</a></p>
+    <td width="6%" align="center" style="border-left: 3px solid #FFD700;">
+      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
+    </td>
+    <td width="47%" valign="top">
+      <h3 align="center">📱 Social Network</h3>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://instagram.com/gelbiasa" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+          <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
+          <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+        </a>
+      </p>
+      <p align="center">
+        <a href="https://wa.me/6285804049240" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
