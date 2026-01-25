@@ -106,12 +106,12 @@
       <h3 align="center">🌐 Portfolio & CV</h3>
       <p align="center">
         <a href="https://gelbiasa.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/🌍_Portfolio-Visit_Now-00BFFF?style=for-the-badge&labelColor=gray&logo=google-chrome&logoColor=FFD700" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00BFFF?style=for-the-badge&labelColor=gray&logo=google-chrome&logoColor=FFD700" alt="Portfolio" />
         </a>
       </p>
       <p align="center">
         <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
-          <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-Download-00BFFF?style=for-the-badge&labelColor=gray&logo=google-drive&logoColor=FFD700" alt="CV" />
+          <img src="https://img.shields.io/badge/Curriculum_Vitae-Download-00BFFF?style=for-the-badge&labelColor=gray&logo=google-drive&logoColor=FFD700" alt="CV" />
         </a>
       </p>
     </td>
