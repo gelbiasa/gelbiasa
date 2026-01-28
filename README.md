@@ -106,12 +106,12 @@
       <h3 align="center">🌐 Portfolio & CV</h3>
       <p align="center">
         <a href="https://gelbiasa.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-00BFFF?style=for-the-badge&labelColor=gray" alt="Portfolio" />
+          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="Portfolio" />
         </a>
       </p>
       <p align="center">
         <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
-          <img src="https://img.shields.io/badge/Curriculum_Vitae-Download-00BFFF?style=for-the-badge&labelColor=gray" alt="CV" />
+          <img src="https://img.shields.io/badge/Curriculum_Vitae-Download-1E3A8A?style=for-the-badge&labelColor=gray" alt="CV" />
         </a>
       </p>
     </td>
@@ -122,27 +122,27 @@
       <h3 align="center">📱 Social Network</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&labelColor=gray" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-1E3A8A?style=for-the-badge&labelColor=gray" alt="LinkedIn" />
         </a>
       </p>
       <p align="center">
         <a href="https://instagram.com/gelbiasa" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-Follow-00BFFF?style=for-the-badge&labelColor=gray" alt="Instagram" />
+          <img src="https://img.shields.io/badge/Instagram-Follow-1E3A8A?style=for-the-badge&labelColor=gray" alt="Instagram" />
         </a>
       </p>
       <p align="center">
         <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-Subscribe-00BFFF?style=for-the-badge&labelColor=gray" alt="YouTube" />
+          <img src="https://img.shields.io/badge/YouTube-Subscribe-1E3A8A?style=for-the-badge&labelColor=gray" alt="YouTube" />
         </a>
       </p>
       <p align="center">
         <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-Contact-00BFFF?style=for-the-badge&labelColor=gray" alt="Gmail" />
+          <img src="https://img.shields.io/badge/Gmail-Contact-1E3A8A?style=for-the-badge&labelColor=gray" alt="Gmail" />
         </a>
       </p>
       <p align="center">
         <a href="https://wa.me/6285804049240" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-Chat-00BFFF?style=for-the-badge&labelColor=gray" alt="WhatsApp" />
+          <img src="https://img.shields.io/badge/WhatsApp-Chat-1E3A8A?style=for-the-badge&labelColor=gray" alt="WhatsApp" />
         </a>
       </p>
     </td>
