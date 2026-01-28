@@ -122,7 +122,7 @@
       <h3 align="center">📱 Social Network</h3>
       <p align="center">
         <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Connect-00BFFF?style=for-the-badge&labelColor=gray&logo=linkedin&logoColor=white" alt="LinkedIn" />
+          <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-00BFFF?style=for-the-badge&labelColor=gray" alt="LinkedIn" />
         </a>
       </p>
       <p align="center">
