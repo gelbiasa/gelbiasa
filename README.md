@@ -102,7 +102,7 @@
 
 <table align="center" width="95%">
   <tr>
-    <td width="47%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">🌐 Portfolio & CV</h3>
       <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
@@ -119,10 +119,7 @@
         </a>
       </p>
     </td>
-    <td width="6%" align="center" style="border-left: 3px solid #FFD700;">
-      <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="divider" />
-    </td>
-    <td width="47%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">📱 Social Network</h3>
       <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
