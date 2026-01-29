@@ -104,6 +104,10 @@
   <tr>
     <td width="47%" valign="top">
       <h3 align="center">🌐 Portfolio & CV</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
+      </div>
+      <br>
       <p align="center">
         <a href="https://gelbiasa.github.io/" target="_blank">
           <img src="https://img.shields.io/badge/Portfolio-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="Portfolio" />
@@ -120,6 +124,10 @@
     </td>
     <td width="47%" valign="top">
       <h3 align="center">📱 Social Network</h3>
+      <div align="center">
+        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
+      </div>
+      <br>
       <p align="center">
         <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="LinkedIn" />
