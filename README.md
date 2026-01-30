@@ -40,8 +40,8 @@
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=graduation-cap&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=php&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=education&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
