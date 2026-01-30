@@ -36,7 +36,7 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" width="50%">🔭 <strong>Professional Experience</strong></th>
+    <th align="center" width="50%"><strong>Professional Experience</strong></th>
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
