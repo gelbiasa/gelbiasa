@@ -119,7 +119,7 @@
         </a>
       </p>
     </td>
-    <td width="45%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">📱 Social Network</h3>
       <div align="center">
         <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
