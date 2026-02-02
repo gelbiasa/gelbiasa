@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-red?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-green?style=for-the-badge&logo=handshake&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-green?style=for-the-badge&logo=clubhouse&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
