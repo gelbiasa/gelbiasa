@@ -41,7 +41,7 @@
   </tr>
   <tr>
     <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-success?style=for-the-badge&logo=php&logoColor=gold" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=book&logoColor=gold" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-blue?style=for-the-badge&logo=lbry&logoColor=gold" /></td>
   </tr>
   <tr>
     <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
