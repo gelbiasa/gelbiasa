@@ -65,8 +65,8 @@
     <th align="center" width="50%">🤝 <strong>Collaboration Area</strong></th>
   </tr>
   <tr>
-    <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-red?style=for-the-badge&logo=laravel&logoColor=gold" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-green?style=for-the-badge&logo=clubhouse&logoColor=gold" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-1E3A8A?style=for-the-badge&logo=laravel&logoColor=gold" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-1E3A8A?style=for-the-badge&logo=clubhouse&logoColor=gold" /></td>
   </tr>
   <tr>
     <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
