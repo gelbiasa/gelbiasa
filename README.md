@@ -250,10 +250,10 @@
   <table width="100%" style="width:100%; border-collapse:collapse; text-align:center;">
     <tr>
       <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats gelbiasa"/>
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gelbiasa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats gelbiasa"/>
       </td>
       <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10" alt="Top Languages gelbiasa"/>
+        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10" alt="Top Languages gelbiasa"/>
       </td>
     </tr>
     <tr>
