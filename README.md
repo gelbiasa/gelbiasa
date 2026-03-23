@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=📝+About+Me+📝;✨+Professional+Profile+✨&font=Fira%20Code&center=true&width=800&height=60&color=FFD700&vCenter=true&size=28&duration=2500&pause=1500" alt="About Me Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=📝+About+Me+📝;✨My+Professional+Profile+✨&font=Fira%20Code&center=true&width=800&height=60&color=FFD700&vCenter=true&size=28&duration=2500&pause=1500" alt="About Me Typing SVG" />
   </a>
 </div>
 
