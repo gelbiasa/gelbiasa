@@ -36,7 +36,7 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" width="50%">🔭 <strong>Professional Experience</strong></th>
+    <th align="center" width="50%">🔭 <strong>Experience</strong></th>
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
@@ -74,7 +74,7 @@
   </tr>
   <tr>
     <td align="center">🚀 <strong>Currently Active Intern</strong></td>
-    <td align="center">🔍 <strong>System Analysis & Design</strong></td>
+    <td align="center">🔍 <strong>System Analysis & Design Database</strong></td>
   </tr>
   <tr>
     <td align="center">⏳ <strong>Gaining Real Experience</strong></td>
