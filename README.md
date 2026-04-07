@@ -40,7 +40,7 @@
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5.5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-1E3A8A?style=for-the-badge&logo=book&logoColor=white" /></td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
     <th align="center" width="50%">🤝 <strong>Collaboration Area</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-5_months-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-5.5_months-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" /></td>
   <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-1E3A8A?style=for-the-badge&logo=hand&logoColor=white" /></td>
   </tr>
   <tr>
