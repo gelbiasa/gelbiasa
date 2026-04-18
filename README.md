@@ -5,10 +5,10 @@
 </div>
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=I'M+M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
   </a>
 </div>
-<h3 align="center">Full Stack Web Developer & Database Engineer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="gelbiasa" />
@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=📝+About+Me+📝;✨+Professional+Profile+✨&font=Fira%20Code&center=true&width=800&height=60&color=FFD700&vCenter=true&size=28&duration=2500&pause=1500" alt="About Me Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=📝+About+Me+📝;✨+My+Professional+Profile+✨&font=Fira%20Code&center=true&width=800&height=60&color=FFD700&vCenter=true&size=28&duration=2500&pause=1500" alt="About Me Typing SVG" />
   </a>
 </div>
 
@@ -36,7 +36,7 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" width="50%">🔭 <strong>Professional Experience</strong></th>
+    <th align="center" width="50%">🔭 <strong>My Experience</strong></th>
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
@@ -48,7 +48,7 @@
     <td align="center">🎯 <strong>Web Development</strong></td>
   </tr>
   <tr>
-    <td align="center">🛠️ <strong>Developed PPID Polinema System</strong></td>
+    <td align="center">🛠️ <strong>Developed PPID Polinema Laravel</strong></td>
     <td align="center">🗄️ <strong>Database Engineering</strong></td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@
     <th align="center" width="50%">🤝 <strong>Collaboration Area</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Laravel-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-5.5_months-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" /></td>
   <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-1E3A8A?style=for-the-badge&logo=hand&logoColor=white" /></td>
   </tr>
   <tr>
@@ -73,8 +73,8 @@
     <td align="center">🔍 <strong>Web Development Projects</strong></td>
   </tr>
   <tr>
-    <td align="center">✅ <strong>Completed Internship</strong></td>
-    <td align="center">🔍 <strong>System Analysis & Design</strong></td>
+    <td align="center">🚀 <strong>Currently Active Intern</strong></td>
+    <td align="center">🔍 <strong>System Analysis & Design Database</strong></td>
   </tr>
   <tr>
     <td align="center">🎯 <strong>MSJA Upload BOM Project</strong></td>
@@ -263,7 +263,7 @@
   </table>
   <br>
   <p style="color:#FFD700; font-size:12px; font-style:italic;">
-    💡 <em>Bila statistik tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
+    💡 <em>Bila statistik tidak muncul, berarti API sedang mengalami error pada server pusat.</em>
   </p>
 </div>
 
@@ -301,7 +301,7 @@
 <img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" alt="GitHub Trophy gelbiasa" />
 <br>
 <p style="color:#FFD700; font-size:12px; font-style:italic;">
-  💡 <em>Bila trophy tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
+  💡 <em>Bila trophy tidak muncul, berarti API sedang mengalami error pada server pusat.</em>
 </p>
 
 <div align="center">
