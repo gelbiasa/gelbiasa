@@ -73,11 +73,11 @@
     <td align="center">🔍 <strong>Web Development Projects</strong></td>
   </tr>
   <tr>
-    <td align="center">🚀 <strong>Currently Active Intern</strong></td>
+    <td align="center">✅ <strong>Completed Internship</strong></td>
     <td align="center">🔍 <strong>System Analysis & Design</strong></td>
   </tr>
   <tr>
-    <td align="center">⏳ <strong>Gaining Real Experience</strong></td>
+    <td align="center">🎯 <strong>MSJA Upload BOM Project</strong></td>
     <td align="center">🎨 <strong>UI/UX Design Solutions</strong></td>
   </tr>
 </table>
