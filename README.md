@@ -36,12 +36,11 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" width="50%">🔭 <strong>My Experience</strong></th>
-    <th align="center" width="50%">🎓 <strong>Focus</strong></th>
+    <th align="center" colspan="2">🔭 <strong>My Experience</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+    <td align="center" width="50%"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
+    <td align="center" width="50%"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
   </tr>
   <tr>
     <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
