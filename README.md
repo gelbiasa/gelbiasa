@@ -40,20 +40,31 @@
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-    <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-1E3A8A?style=for-the-badge&logo=book&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
+    <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
   </tr>
   <tr>
+    <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
     <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🛠️ <strong>Developed PPID Polinema</strong></td>
+    <td align="center">🛠️ <strong>MSJA Upload BOM Project</strong></td>
+  </tr>
+  <tr>
+    <td align="center">⚡ <strong>Laravel Framework</strong></td>
+    <td align="center">⚡ <strong>Laravel & Full Stack Technology</strong></td>
+  </tr>
+  <tr>
+    <td align="center">🎯 <strong>Web Development</strong></td>
     <td align="center">🎯 <strong>Web Development</strong></td>
   </tr>
   <tr>
-    <td align="center">🛠️ <strong>MSJA Upload BOM Project</strong></td>
+    <td align="center">🗄️ <strong>Database Engineering</strong></td>
     <td align="center">🗄️ <strong>Database Engineering</strong></td>
   </tr>
   <tr>
-    <td align="center">⚡ <strong>Laravel & Full Stack Technology</strong></td>
-    <td align="center">📚 <strong>Continuous Learning</strong></td>
+    <td colspan="2" align="center">📚 <strong>Continuous Learning & Professional Growth</strong></td>
   </tr>
 </table>
 
