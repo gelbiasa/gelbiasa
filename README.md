@@ -40,20 +40,20 @@
     <th align="center" width="50%">🎓 <strong>Focus</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
     <td align="center"><img src="https://img.shields.io/badge/Politeknik_Negeri_Malang-Student-1E3A8A?style=for-the-badge&logo=book&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
+    <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
     <td align="center">🎯 <strong>Web Development</strong></td>
   </tr>
   <tr>
-    <td align="center">🛠️ <strong>Developed PPID Polinema Laravel</strong></td>
+    <td align="center">🛠️ <strong>MSJA Upload BOM Project</strong></td>
     <td align="center">🗄️ <strong>Database Engineering</strong></td>
   </tr>
   <tr>
-    <td align="center">⚡ <strong>Laravel Framework</strong></td>
-    <td align="center">📚 <strong>Continus Learning</strong></td>
+    <td align="center">⚡ <strong>Laravel & Full Stack Technology</strong></td>
+    <td align="center">📚 <strong>Continuous Learning</strong></td>
   </tr>
 </table>
 
@@ -61,23 +61,23 @@
 
 <table width="100%" style="width: 100%; border-collapse: collapse;">
   <tr>
-    <th align="center" width="50%">💼 <strong>Current Position</strong></th>
+    <th align="center" width="50%">💼 <strong>Current Status</strong></th>
     <th align="center" width="50%">🤝 <strong>Collaboration Area</strong></th>
   </tr>
   <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-5.5_months-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" /></td>
+  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Available-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
   <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-1E3A8A?style=for-the-badge&logo=hand&logoColor=white" /></td>
   </tr>
   <tr>
-    <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
+    <td align="center">✅ <strong>Internship Completed</strong></td>
     <td align="center">🔍 <strong>Web Development Projects</strong></td>
   </tr>
   <tr>
-    <td align="center">🚀 <strong>Currently Active Intern</strong></td>
-    <td align="center">🔍 <strong>System Analysis & Design Database</strong></td>
+    <td align="center">🎓 <strong>Graduated from Magang</strong></td>
+    <td align="center">🔍 <strong>System Analysis & Design</strong></td>
   </tr>
   <tr>
-    <td align="center">🎯 <strong>MSJA Upload BOM Project</strong></td>
+    <td align="center">🚀 <strong>Ready for Next Challenge</strong></td>
     <td align="center">🎨 <strong>UI/UX Design Solutions</strong></td>
   </tr>
 </table>
