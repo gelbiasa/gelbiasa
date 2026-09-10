@@ -257,21 +257,14 @@
 
 <!-- GitHub Stats Card -->
 <div align="center">
-  <table width="100%" style="width:100%; border-collapse:collapse; text-align:center;">
-    <tr>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gelbiasa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=FFD700&icon_color=FFD700&text_color=c9d1d9&border_radius=10&cache_seconds=1800" alt="GitHub Stats gelbiasa"/>
-      </td>
-      <td align="center" width="50%">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gelbiasa&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=FFD700&text_color=c9d1d9&border_radius=10&hide_progress=false" alt="Top Languages gelbiasa"/>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://streak-stats.demolab.com?user=gelbiasa&theme=dark&hide_border=true&background=0D1117&stroke=FFD700&ring=FFD700&fire=FFD700&currStreakNum=FFD700&currStreakLabel=FFD700&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&border_radius=10&date_format=j%20M%5B%20Y%5D&mode=daily" alt="GitHub Streak Stats gelbiasa"/>
-      </td>
-  </table>
-  <br>
+  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+    <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" />
+  </a>
+  <br><br>
+  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+    <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" />
+  </a>
+  <br><br>
   <p style="color:#FFD700; font-size:12px; font-style:italic;">
     💡 <em>Bila statistik tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
   </p>
