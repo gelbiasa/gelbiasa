@@ -260,14 +260,10 @@
   <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
     <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" />
   </a>
-  <br><br>
+  <br>
   <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
     <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" />
   </a>
-  <br><br>
-  <p style="color:#FFD700; font-size:12px; font-style:italic;">
-    💡 <em>Bila statistik tidak muncul, berarti API sedang mengalami error pada server pusat. Silakan refresh halaman atau coba beberapa saat lagi.</em>
-  </p>
 </div>
 
 
@@ -275,41 +271,7 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
 </div>
 
-<div align="center">
-
-### 📈 **My Grafik Stats**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gelbiasa&theme=github_dark" width="49%" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gelbiasa&theme=github_dark" width="49%" />
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gelbiasa&theme=high-contrast&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&area=true&hide_border=false&border_radius=15&custom_title=🌟%20Contribution%20Activity%20🌟&area_color=FFD700" />
-</a>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-
-### 🏆 **My Github Achievement**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<img src="https://github-profile-trophy.vercel.app/?username=gelbiasa&theme=darkhub&no-frame=false&row=1&column=7" width="100%" alt="GitHub Trophy gelbiasa" />
 <br>
-<p style="color:#FFD700; font-size:12px; font-style:italic;">
-  💡 <em>Bila trophy tidak muncul, berarti API sedang mengalami error pada server pusat.</em>
-</p>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
 
 ✨ **Thank You for Visiting** ✨
 
