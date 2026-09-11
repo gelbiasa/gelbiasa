@@ -124,7 +124,7 @@
         </a>
       </p>
       <p align="center">
-        <a href="https://drive.google.com/file/d/1V4cyfrMNF_6Qn6DyePH1DuMv3qr_pcZD/view?usp=sharing" target="_blank">
+        <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link" target="_blank">
           <img src="https://img.shields.io/badge/Curriculum_Vitae-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="CV" />
         </a>
       </p>
