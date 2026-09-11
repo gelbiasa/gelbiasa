@@ -1,277 +1,93 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌙+بِسْمِ+اللهِ+الرَّحْمَنِ+الرَّحِيْمِ+🌙&font=Fira%20Code&center=true&width=700&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
-  </a>
-</div>
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=M.+Isroqi+Gelby+Firmansyah&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=24&duration=3000&pause=1000" alt="Typing SVG" />
-  </a>
-</div>
-<h3 align="center">Full Stack Web Developer</h3>
+
+<p>🌙 بِسْمِ اللهِ الرَّحْمَنِ الرَّحِيْمِ 🌙</p>
+
+# M. Isroqi Gelby Firmansyah (@gelbiasa)
+### 🚀 Full Stack Web Developer
+
+[![Profile Views](https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat-square)](#)
+
+<br>
+
+**“Transforming ideas into scalable, efficient, and beautifully designed web applications.”**
+<br>Currently open to new opportunities and collaborations!
+
+<br>
+
+### 🛠️ Core Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+<br>
+
+### 💼 Experience
+
+<table align="center" style="border-collapse: collapse; text-align: center;">
+  <tr>
+    <th width="50%" align="center">📍 UPA TIK Politeknik Negeri Malang</th>
+    <th width="50%" align="center">📍 PT Multi Spunindo Jaya Tbk</th>
+  </tr>
+  <tr>
+    <td align="center"><strong>Backend Developer Intern</strong><br><em>Developed PPID Polinema</em></td>
+    <td align="center"><strong>Full Stack Developer Intern</strong><br><em>MSJA Upload BOM Project</em></td>
+  </tr>
+  <tr>
+    <td align="center">Laravel Framework &middot; Web Development</td>
+    <td align="center">Laravel &middot; Database Engineering &middot; Full Stack</td>
+  </tr>
+</table>
+
+<br>
+
+### 🔗 Portfolio & Connect
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gelbiasa&label=Profile%20views&color=0e75b6&style=flat" alt="gelbiasa" />
+  <a href="https://gelbiasa.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/Resume/CV-0F172A?style=for-the-badge&logo=googledrive&logoColor=white" alt="CV" />
+  </a>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=📝+About+Me+📝;✨+My+Professional+Profile+✨&font=Fira%20Code&center=true&width=800&height=60&color=FFD700&vCenter=true&size=28&duration=2500&pause=1500" alt="About Me Typing SVG" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&text=&fontSize=16&fontColor=fff&animation=fadeIn" />
-</div>
-
-<div align="center">
-
-<table width="100%" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <th align="center" colspan="2">🔭 <strong>My Experience</strong></th>
-  </tr>
-  <tr>
-    <td align="center" width="50%"><img src="https://img.shields.io/badge/Backend_Developer_Intern-5_months-1E3A8A?style=for-the-badge&logo=timescale&logoColor=white" /></td>
-    <td align="center" width="50%"><img src="https://img.shields.io/badge/Full_Stack_Developer_Intern-5.5_months-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center">📍 <strong>UPA TIK Politeknik Negeri Malang</strong></td>
-    <td align="center">📍 <strong>PT Multi Spunindo Jaya Tbk</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🛠️ <strong>Developed PPID Polinema</strong></td>
-    <td align="center">🛠️ <strong>MSJA Upload BOM Project</strong></td>
-  </tr>
-  <tr>
-    <td align="center">⚡ <strong>Laravel Framework</strong></td>
-    <td align="center">⚡ <strong>Laravel & Full Stack Technology</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🎯 <strong>Web Development</strong></td>
-    <td align="center">🎯 <strong>Web Development</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🗄️ <strong>Database Engineering</strong></td>
-    <td align="center">🗄️ <strong>Database Engineering</strong></td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">📚 <strong>Continuous Learning & Professional Growth</strong></td>
-  </tr>
-</table>
-
-<br>
-
-<table width="100%" style="width: 100%; border-collapse: collapse;">
-  <tr>
-    <th align="center" width="50%">💼 <strong>Current Status</strong></th>
-    <th align="center" width="50%">🤝 <strong>Collaboration Area</strong></th>
-  </tr>
-  <tr>
-  <td align="center"><img src="https://img.shields.io/badge/Full_Stack_Developer-Available-22C55E?style=for-the-badge&logo=laravel&logoColor=white" /></td>
-  <td align="center"><img src="https://img.shields.io/badge/Open_to_Collaborate-Always-1E3A8A?style=for-the-badge&logo=hand&logoColor=white" /></td>
-  </tr>
-  <tr>
-    <td align="center">✅ <strong>Internship Completed</strong></td>
-    <td align="center">🔍 <strong>Web Development Projects</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🎓 <strong>Graduated from Magang</strong></td>
-    <td align="center">🔍 <strong>System Analysis & Design</strong></td>
-  </tr>
-  <tr>
-    <td align="center">🚀 <strong>Ready for Next Challenge</strong></td>
-    <td align="center">🎨 <strong>UI/UX Design Solutions</strong></td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer&text=Stay%20Calm%20!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=🌐+Portfolio+%26+CV+|+Social+Network+🌐;📱+Let's+Connect+📱&font=Fira%20Code&center=true&width=600&height=50&color=FFD700&vCenter=true&size=20&duration=2000&pause=1000" alt="Connect Title" />
+  <a href="https://instagram.com/gelbiasa" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</div>
-
-<br>
-
-<table align="center" width="80%">
-  <tr>
-    <td width="40%" valign="top">
-      <h3 align="center">🌐 Portfolio & CV</h3>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
-      </div>
-      <br>
-      <p align="center">
-        <a href="https://gelbiasa.github.io/" target="_blank">
-          <img src="https://img.shields.io/badge/Portfolio-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="Portfolio" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link" target="_blank">
-          <img src="https://img.shields.io/badge/Curriculum_Vitae-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="CV" />
-        </a>
-      </p>
-    </td>
-    <td width="40%" valign="top">
-      <h3 align="center">📱 Social Network</h3>
-      <div align="center">
-        <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" width="80%" />
-      </div>
-      <br>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/gelbifirmansyah/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="LinkedIn" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://instagram.com/gelbiasa" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="Instagram" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
-          <img src="https://img.shields.io/badge/YouTube-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="YouTube" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
-          <img src="https://img.shields.io/badge/Gmail-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="Gmail" />
-        </a>
-      </p>
-      <p align="center">
-        <a href="https://wa.me/6285804049240" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-Visit_Now-1E3A8A?style=for-the-badge&labelColor=gray" alt="WhatsApp" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=80&section=footer&text=Feel%20Free%20to%20Contact%20Me!&fontSize=16&fontColor=FFD700&animation=twinkling" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-
-### 💻 **Tech Stack**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<br>
-
-<table align="center" style="border: none;">
-  <tr>
-    <td align="center" style="border: none;">
-      <h3>🚀 Programming Languages & Frameworks</h3>
-      <a href="https://www.w3.org/html/" target="_blank">
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank">
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-      </a>
-      <a href="https://www.php.net" target="_blank">
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      </a>
-      <a href="https://www.java.com" target="_blank">
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-      </a>
-      <br/>
-      <a href="https://dart.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      </a>
-      <a href="https://laravel.com/" target="_blank">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-      </a>
-      <a href="https://reactjs.org/" target="_blank">
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-      </a>
-      <a href="https://flutter.dev" target="_blank">
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-      </a>
-      <a href="https://getbootstrap.com" target="_blank">
-        <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <h3>🗄️ Database</h3>
-      <a href="https://www.mysql.com/" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="border: none;">
-      <h3>🛠️ Tools</h3>
-      <a href="https://www.mysql.com/products/workbench/" target="_blank">
-        <img src="https://img.shields.io/badge/MySQL_Workbench-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Workbench" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<div align="center">
-
-### 📊 **My GitHub Stats**
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
-
-<br>
-
-<!-- GitHub Stats Card -->
-<div align="center">
-  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-    <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" />
+  <a href="https://wa.me/6285804049240" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
-  <br>
-  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-    <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" />
+  <a href="mailto:gelbifirmansyah12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div>
-
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header" />
-</div>
+  <a href="https://www.youtube.com/@gelbifirmansyah5697" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+</p>
 
 <br>
+
+### 📊 GitHub Stats
+
+<a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+  <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" />
+</a>
+<br>
+<a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+  <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" />
+</a>
+
+<br><br>
 
 ✨ **Thank You for Visiting** ✨
 
