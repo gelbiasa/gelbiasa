@@ -12,7 +12,7 @@
  \__, |\___|_|_.__/|_|\__,_|___/\__,_|   \____/
   __/ |                                
  |___/                                 
-<br>
+ 
 > <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
 
 > <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
