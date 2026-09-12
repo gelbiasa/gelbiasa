@@ -1,50 +1,93 @@
 <div align="center">
 
-<br>
+```
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                          ║
+║   ██████╗ ███████╗██╗     ██████╗  ██╗ █████╗ ███████╗ █████╗                           ║
+║  ██╔════╝ ██╔════╝██║     ██╔══██╗ ╚═╝██╔══██╗██╔════╝██╔══██╗                          ║
+║  ██║  ███╗█████╗  ██║     ██████╔╝    ███████║███████╗███████║                           ║
+║  ██║   ██║██╔══╝  ██║     ██╔══██╗    ██╔══██║╚════██║██╔══██║                           ║
+║  ╚██████╔╝███████╗███████╗██████╔╝    ██║  ██║███████║██║  ██║                           ║
+║   ╚═════╝ ╚══════╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                          ║
+║                                                                                          ║
+║          > Full Stack Developer  •  Open Source Enthusiast  •  Problem Solver            ║
+║          > [ PHP ] [ Laravel ] [ JavaScript ] [ MySQL ] [ React ]                        ║
+║                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
+```
 
-<table>
+</div>
+
+<div align="center">
+
+<table width="100%">
   <tr>
-    <td valign="top">
-<pre>
-            _ _     _                  
-           | | |   (_)                 
-  __ _  ___| | |__  _  __ _ ___  __ _  
- / _` |/ _ \ | '_ \| |/ _` / __|/ _` | 
-| (_| |  __/ | |_) | | (_| \__ \ (_| | 
- \__, |\___|_|_.__/|_|\__,_|___/\__,_| 
-  __/ |                                
- |___/                                 
-                                       
-       "Transforming ideas into        
-         scalable web apps!"           
-</pre>
-    </td>
-    <td valign="top">
-<pre>
-<b>gelbiasa@github</b>
----------------------------------------------------
-<b>Role:</b>        Full Stack Web Developer
-<b>Name:</b>        M. Isroqi Gelby Firmansyah
-<b>Status:</b>      Available for Collaboration
+    <td valign="top" width="50%">
 
-<b>Experience:</b>  Backend Dev Intern @ UPA TIK Polinema
-             Full Stack Dev Intern @ PT MSJA
+```yaml
+┌─────────────────────────────────────────┐
+│           gelbiasa@github               │
+├─────────────────────────────────────────┤
+│                                         │
+│  whoami:    M. Isroqi Gelby Firmansyah  │
+│  role:      Full Stack Web Developer    │
+│  status:    ✅ Open for Hire            │
+│  location:  🇮🇩 Indonesia               │
+│                                         │
+├── 🏢 experience ────────────────────────┤
+│                                         │
+│  ▸ Backend Dev Intern                   │
+│    └─ UPA TIK Politeknik Negeri Malang  │
+│       PPID Polinema · Laravel           │
+│                                         │
+│  ▸ Full Stack Dev Intern                │
+│    └─ PT Multi Spunindo Jaya Tbk        │
+│       Upload BOM · Laravel + Full Stack │
+│                                         │
+└─────────────────────────────────────────┘
+```
 
-<b>Tech Stack:</b>  Laravel, PHP, JavaScript, MySQL, React
+</td>
+    <td valign="top" width="50%">
 
-- <b>Contact & Links</b> -------------------------------
-<b>Portfolio:</b>   <a href="https://gelbiasa.github.io/">gelbiasa.github.io</a>
-<b>CV:</b>          <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">Resume / CV</a>
-<b>LinkedIn:</b>    <a href="https://www.linkedin.com/in/gelbifirmansyah/">in/gelbifirmansyah</a>
-<b>Instagram:</b>   <a href="https://instagram.com/gelbiasa">@gelbiasa</a>
-<b>WhatsApp:</b>    <a href="https://wa.me/6285804049240">+62 858-0404-9240</a>
-<b>Email:</b>       <a href="mailto:gelbifirmansyah12@gmail.com">gelbifirmansyah12@gmail.com</a>
-</pre>
-    </td>
+```yaml
+┌─────────────────────────────────────────┐
+│           ~ connect with me ~           │
+├─────────────────────────────────────────┤
+│                                         │
+│  🌐 portfolio  gelbiasa.github.io       │
+│  📄 resume/cv  [click here]             │
+│  💼 linkedin   in/gelbifirmansyah       │
+│  📸 instagram  @gelbiasa                │
+│  💬 whatsapp   +62 858-0404-9240        │
+│  📧 email      gelbifirmansyah12@       │
+│                gmail.com                │
+│                                         │
+├── 🛠️  tech stack ───────────────────────┤
+│                                         │
+│  ⚡ Laravel   ████████████  primary     │
+│  ⚡ PHP       ████████████  primary     │
+│  ⚡ MySQL     ██████████    strong      │
+│  ⚡ JS        █████████     strong      │
+│  ⚡ React     ██████        growing     │
+│                                         │
+└─────────────────────────────────────────┘
+```
+
+</td>
   </tr>
 </table>
 
-<br><br>
+<!-- Clickable links (invisible anchors matching the table above) -->
+
+> 🌐 **[Portfolio](https://gelbiasa.github.io/)** &nbsp;|&nbsp;
+> 📄 **[Resume / CV](https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link)** &nbsp;|&nbsp;
+> 💼 **[LinkedIn](https://www.linkedin.com/in/gelbifirmansyah/)** &nbsp;|&nbsp;
+> 📸 **[Instagram](https://instagram.com/gelbiasa)** &nbsp;|&nbsp;
+> 💬 **[WhatsApp](https://wa.me/6285804049240)** &nbsp;|&nbsp;
+> 📧 **[Email](mailto:gelbifirmansyah12@gmail.com)**
+
+<br>
 
 ### 📊 GitHub Stats
 
@@ -58,6 +101,8 @@
 
 <br><br>
 
-✨ **Thank You for Visiting** ✨
+```
+// Thanks for visiting — let's build something awesome together! 🚀
+```
 
 </div>
