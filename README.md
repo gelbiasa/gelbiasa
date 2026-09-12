@@ -13,9 +13,9 @@
   __/ |                                
  |___/                                 
 
- │ <font color="#38bdf8">Full Stack Web Developer, Database Engineering, System Analysis</font>
+> <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
 
- │ <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
+> <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
 </pre>
     </td>
     <td valign="top" width="50%">
