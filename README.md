@@ -1,91 +1,56 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║   ██████╗ ███████╗██╗     ██████╗  ██╗ █████╗ ███████╗ █████╗                           ║
-║  ██╔════╝ ██╔════╝██║     ██╔══██╗ ╚═╝██╔══██╗██╔════╝██╔══██╗                          ║
-║  ██║  ███╗█████╗  ██║     ██████╔╝    ███████║███████╗███████║                           ║
-║  ██║   ██║██╔══╝  ██║     ██╔══██╗    ██╔══██║╚════██║██╔══██║                           ║
-║  ╚██████╔╝███████╗███████╗██████╔╝    ██║  ██║███████║██║  ██║                           ║
-║   ╚═════╝ ╚══════╝╚══════╝╚═════╝     ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝                          ║
-║                                                                                          ║
-║          > Full Stack Developer  •  Open Source Enthusiast  •  Problem Solver            ║
-║          > [ PHP ] [ Laravel ] [ JavaScript ] [ MySQL ] [ React ]                        ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<div align="center">
-
 <table width="100%">
   <tr>
     <td valign="top" width="50%">
+<pre>
+            _ _     _                  
+           | | |   (_)                 
+  __ _  ___| | |__  _  __ _ ___  __ _  
+ / _` |/ _ \ | '_ \| |/ _` / __|/ _` | 
+| (_| |  __/ | |_) | | (_| \__ \ (_| | 
+ \__, |\___|_|_.__/|_|\__,_|___/\__,_| 
+  __/ |                                
+ |___/                                 
 
-```yaml
-┌─────────────────────────────────────────┐
-│           gelbiasa@github               │
-├─────────────────────────────────────────┤
-│                                         │
-│  whoami:    M. Isroqi Gelby Firmansyah  │
-│  role:      Full Stack Web Developer    │
-│  status:    ✅ Open for Hire            │
-│  location:  🇮🇩 Indonesia               │
-│                                         │
-├── 🏢 experience ────────────────────────┤
-│                                         │
-│  ▸ Backend Dev Intern                   │
-│    └─ UPA TIK Politeknik Negeri Malang  │
-│       PPID Polinema · Laravel           │
-│                                         │
-│  ▸ Full Stack Dev Intern                │
-│    └─ PT Multi Spunindo Jaya Tbk        │
-│       Upload BOM · Laravel + Full Stack │
-│                                         │
-└─────────────────────────────────────────┘
-```
+ $ cat expertise.txt
+ > Full Stack Web Developer, Database Engineering, System Analysis
 
-</td>
+ $ cat tech_stack.txt
+ > Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS
+</pre>
+    </td>
     <td valign="top" width="50%">
+<pre>
+<b>gelbiasa@github</b>
+----------------------------------------
+<b>Role:</b>        Full Stack Web Developer
+<b>Name:</b>        M. Isroqi Gelby Firmansyah
+<b>Status:</b>      ✅ Open for Hire
 
-```yaml
-┌─────────────────────────────────────────┐
-│           ~ connect with me ~           │
-├─────────────────────────────────────────┤
-│                                         │
-│  🌐 portfolio  gelbiasa.github.io       │
-│  📄 resume/cv  [click here]             │
-│  💼 linkedin   in/gelbifirmansyah       │
-│  📸 instagram  @gelbiasa                │
-│  💬 whatsapp   +62 858-0404-9240        │
-│  📧 email      gelbifirmansyah12@       │
-│                gmail.com                │
-│                                         │
-├── 🛠️  tech stack ───────────────────────┤
-│                                         │
-│  ⚡ Laravel   ████████████  primary     │
-│  ⚡ PHP       ████████████  primary     │
-│  ⚡ MySQL     ██████████    strong      │
-│  ⚡ JS        █████████     strong      │
-│  ⚡ React     ██████        growing     │
-│                                         │
-└─────────────────────────────────────────┘
-```
+<b>Experience:</b>
+  ▸ <b>Backend Dev Intern</b>
+    UPA TIK Politeknik Negeri Malang
+    <i>(PPID Polinema · Laravel)</i>
 
-</td>
+  ▸ <b>Full Stack Dev Intern</b>
+    PT Multi Spunindo Jaya Tbk
+    <i>(Upload BOM · Laravel + Full Stack)</i>
+</pre>
+    </td>
   </tr>
 </table>
 
-<!-- Clickable links (invisible anchors matching the table above) -->
+<br>
 
-> 🌐 **[Portfolio](https://gelbiasa.github.io/)** &nbsp;|&nbsp;
-> 📄 **[Resume / CV](https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link)** &nbsp;|&nbsp;
-> 💼 **[LinkedIn](https://www.linkedin.com/in/gelbifirmansyah/)** &nbsp;|&nbsp;
-> 📸 **[Instagram](https://instagram.com/gelbiasa)** &nbsp;|&nbsp;
-> 💬 **[WhatsApp](https://wa.me/6285804049240)** &nbsp;|&nbsp;
-> 📧 **[Email](mailto:gelbifirmansyah12@gmail.com)**
+<p align="center">
+  <kbd><a href="https://gelbiasa.github.io/">$ ./portfolio.sh</a></kbd> &nbsp;
+  <kbd><a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">$ cat CV.pdf</a></kbd> &nbsp;
+  <kbd><a href="https://www.linkedin.com/in/gelbifirmansyah/">$ ssh linkedin</a></kbd> &nbsp;
+  <kbd><a href="https://instagram.com/gelbiasa">$ curl instagram</a></kbd> &nbsp;
+  <kbd><a href="https://wa.me/6285804049240">$ ping whatsapp</a></kbd> &nbsp;
+  <kbd><a href="mailto:gelbifirmansyah12@gmail.com">$ mailto email</a></kbd>
+</p>
 
 <br>
 
@@ -101,7 +66,7 @@
 
 <br><br>
 
-```
+```text
 // Thanks for visiting — let's build something awesome together! 🚀
 ```
 
