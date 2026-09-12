@@ -4,20 +4,18 @@
   <tr>
     <td valign="top" width="50%">
 <pre>
-            _ _     _                  
-           | | |   (_)                 
-  __ _  ___| | |__  _  __ _ ___  __ _  
- / _` |/ _ \ | '_ \| |/ _` / __|/ _` | 
-| (_| |  __/ | |_) | | (_| \__ \ (_| | 
- \__, |\___|_|_.__/|_|\__,_|___/\__,_| 
+            _ _     _                     (  )
+           | | |   (_)                     )(
+  __ _  ___| | |__  _  __ _ ___  __ _    _(__)_
+ / _` |/ _ \ | '_ \| |/ _` / __|/ _` |  |      |
+| (_| |  __/ | |_) | | (_| \__ \ (_| |  |______|
+ \__, |\___|_|_.__/|_|\__,_|___/\__,_|   \____/
   __/ |                                
  |___/                                 
 
- $ cat expertise.txt
- > Full Stack Web Developer, Database Engineering, System Analysis
+ │ <font color="#38bdf8">Full Stack Web Developer, Database Engineering, System Analysis</font>
 
- $ cat tech_stack.txt
- > Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS
+ │ <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
 </pre>
     </td>
     <td valign="top" width="50%">
@@ -28,7 +26,9 @@
 <b>Name:</b>        M. Isroqi Gelby Firmansyah
 <b>Status:</b>      ✅ Open for Hire
 
+----------------------------------------
 <b>Experience:</b>
+----------------------------------------
   ▸ <b>Backend Dev Intern</b>
     UPA TIK Politeknik Negeri Malang
     <i>(PPID Polinema · Laravel)</i>
