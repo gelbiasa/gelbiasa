@@ -4,18 +4,28 @@
   <tr>
     <td valign="top" width="50%">
 <pre>
-            _ _     _                     (  )
-           | | |   (_)                     )(
-  __ _  ___| | |__  _  __ _ ___  __ _    _(__)_
- / _` |/ _ \ | '_ \| |/ _` / __|/ _` |  |      |
-| (_| |  __/ | |_) | | (_| \__ \ (_| |  |______|
- \__, |\___|_|_.__/|_|\__,_|___/\__,_|   \____/
-  __/ |                                
- |___/                                 
- 
-> <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
+<pre>
+                                                 (  )
+             _ _    _                             )(
+            | | |  (_)                         .-(__)-.
+  __ _  ___| | |__  _  __ _ ___  __ _         |        |-.
+ / _` |/ _ \ | '_ \| |/ _` / __|/ _` |        |        |  |
+| (_| |  __/ | |_) | | (_| \__ \ (_| |        |________|-'
+ \__, |\___|_|_.__/|_|\__,_|___/\__,_|         \______/
+  __/ |
+ |___/
 
-> <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+ 
+ 💻 <b>Tech Stack & Skills</b>
+ 
+  > <font color="#a78bfa">Frontend</font> : <font color="#38bdf8">HTML, CSS, JavaScript, React</font>
+  > <font color="#a78bfa">Backend</font>  : <font color="#38bdf8">PHP, Laravel, MySQL</font>
+  > <font color="#a78bfa">Mobile</font>   : <font color="#38bdf8">Flutter</font>
+
+ ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
+    
 </pre>
     </td>
     <td valign="top" width="50%">
