@@ -17,11 +17,13 @@
                                             `------------------'
 </pre>
 
-<blockquote>
-  <b><font color="#38bdf8">Full Stack Developer, Database Design, System Analyst</font></b>
-  <br><br>
-  <b><font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font></b>
-</blockquote>
+<br>
+<code>[ EXPERTISE ]</code><br>
+&nbsp;&nbsp;<b><font color="#38bdf8">Full Stack Developer • Database Design • System Analyst</font></b>
+<br><br>
+<code>[ TECH STACK ]</code><br>
+&nbsp;&nbsp;<b><font color="#38bdf8">Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS</font></b>
+<br>
     </td>
     <td valign="top" width="50%">
 <pre>
@@ -35,12 +37,12 @@
 <b>Experience:</b>
 ‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
   ├── <b>Backend Dev Intern</b>
-  │   └── UPA TIK Politeknik Negeri Malang
-  │       └── <i>PPID Polinema · Laravel</i>
+  │   ├── UPA TIK Politeknik Negeri Malang
+  │   └── <i>PPID Polinema · Laravel</i>
   │
   └── <b>Full Stack Dev Intern</b>
-      └── PT Multi Spunindo Jaya Tbk
-          └── <i>Upload BOM · Laravel + Full Stack</i>
+      ├── PT Multi Spunindo Jaya Tbk
+      └── <i>Upload BOM · Laravel + Full Stack</i>
 </pre>
     </td>
   </tr>
