@@ -17,11 +17,11 @@
                                             `------------------'
 </pre>
 
-```yaml
-| Full Stack Developer, Database Design, System Analyst
-
-| Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS
-```
+<blockquote>
+  <b><font color="#38bdf8">Full Stack Developer, Database Design, System Analyst</font></b>
+  <br><br>
+  <b><font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font></b>
+</blockquote>
     </td>
     <td valign="top" width="50%">
 <pre>
