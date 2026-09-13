@@ -26,21 +26,21 @@
     <td valign="top" width="50%">
 <pre>
 <b>gelbiasa@github</b>
-----------------------------------------
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 <b>Role:</b>        Full Stack Web Developer
 <b>Name:</b>        M. Isroqi Gelby Firmansyah
 <b>Status:</b>      ✅ Open for Hire
 
-----------------------------------------
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
 <b>Experience:</b>
-----------------------------------------
-  ▸ <b>Backend Dev Intern</b>
-    UPA TIK Politeknik Negeri Malang
-    <i>(PPID Polinema · Laravel)</i>
-
-  ▸ <b>Full Stack Dev Intern</b>
-    PT Multi Spunindo Jaya Tbk
-    <i>(Upload BOM · Laravel + Full Stack)</i>
+‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐‐
+  ├── <b>Backend Dev Intern</b>
+  │   └── UPA TIK Politeknik Negeri Malang
+  │       └── <i>PPID Polinema · Laravel</i>
+  │
+  └── <b>Full Stack Dev Intern</b>
+      └── PT Multi Spunindo Jaya Tbk
+          └── <i>Upload BOM · Laravel + Full Stack</i>
 </pre>
     </td>
   </tr>
