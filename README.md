@@ -4,22 +4,24 @@
   <tr>
     <td valign="top" width="50%">
 <pre>
-            _ _     _                               (  )
-           | | |   (_)                             (    )
-  __ _  ___| | |__  _  __ _ ___  __ _               )  (
- / _` |/ _ \ | '_ \| |/ _` / __|/ _` |          ..--------..
-| (_| |  __/ | |_) | | (_| \__ \ (_| |         (____________)
- \__, |\___|_|_.__/|_|\__,_|___/\__,_|         |            |--.
-  __/ |                                        |            |  |
- |___/                                         |____________|--'
-                                                \__________/
-                                            .------------------.
+                                                    (  )
+                                                   (    )
+            _ _     _                               )  (
+           | | |   (_)                          ..--------..
+  __ _  ___| | |__  _  __ _ ___  __ _          (____________)
+ / _` |/ _ \ | '_ \| |/ _` / __|/ _` |         |            |--.
+| (_| |  __/ | |_) | | (_| \__ \ (_| |         |            |  |
+ \__, |\___|_|_.__/|_|\__,_|___/\__,_|         |____________|--'
+  __/ |                                         \__________/
+ |___/                                      .------------------.
                                             `------------------'
-
- │ <font color="#38bdf8">Full Stack Developer, Database Design, System Analyst</font>
-
- │ <font color="#38bdf8">Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS</font>
 </pre>
+
+```yaml
+| Full Stack Developer, Database Design, System Analyst
+
+| Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS
+```
     </td>
     <td valign="top" width="50%">
 <pre>
