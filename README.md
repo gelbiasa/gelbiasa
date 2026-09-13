@@ -15,15 +15,14 @@
   __/ |                                         \__________/
  |___/                                      .------------------.
                                             `------------------'
-</pre>
 
 ```yaml
 | Full Stack Developer, Database Design, System Analyst
 
 | Laravel, PHP, MySQL, JavaScript, React, Flutter, HTML, CSS
 ```
-    </td>
-    <td valign="top" width="50%">
+
+</pre>
 <pre>
 <b>gelbiasa@github</b>
 ----------------------------------------
