@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/26vUzl3jq9ZA82C5a/giphy.gif" width="100%" height="200" alt="Epic Castle Pixel Art">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHEwZDY4ajVweGZtOWJtaHlmMzhqYjVkOGM1dHRhcmVnNnJmY3hhcyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/lnq52t8atIw3m/giphy.gif" width="100%" height="200">
 
 <table width="100%">
   <tr>
