@@ -40,9 +40,11 @@
   │   ├── UPA TIK Politeknik Negeri Malang
   │   └── <i>PPID Polinema · Laravel</i>
   │
-  └── <b>Full Stack Dev Intern</b>
-      ├── PT Multi Spunindo Jaya Tbk
-      └── <i>Upload BOM · Laravel + Full Stack</i>
+  ├── <b>Full Stack Dev Intern</b>
+  │    ├── PT Multi Spunindo Jaya Tbk
+  │    └── <i>Upload BOM · Laravel + Full Stack</i>
+  │
+  └── <b>Coming Soon</b>
 </pre>
     </td>
   </tr>
