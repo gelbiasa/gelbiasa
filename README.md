@@ -18,11 +18,9 @@
 </pre>
 
 <br>
-<code>[ EXPERTISE ]</code><br>
-&nbsp;&nbsp;<b><font color="#38bdf8">Full Stack Developer • Database Design • System Analyst</font></b>
+<code>[ Full Stack Developer • Database Design • System Analyst ]</code><br>
 <br><br>
-<code>[ TECH STACK ]</code><br>
-&nbsp;&nbsp;<b><font color="#38bdf8">Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS</font></b>
+<code>[ Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS ]</code><br>
 <br>
     </td>
     <td valign="top" width="50%">
@@ -41,8 +39,8 @@
   │   └── <i>PPID Polinema · Laravel</i>
   │
   ├── <b>Full Stack Dev Intern</b>
-  │    ├── PT Multi Spunindo Jaya Tbk
-  │    └── <i>Upload BOM · Laravel + Full Stack</i>
+  │   ├── PT Multi Spunindo Jaya Tbk
+  │   └── <i>Upload BOM · Laravel + Full Stack</i>
   │
   └── <b>Coming Soon</b>
 </pre>
