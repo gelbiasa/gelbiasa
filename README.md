@@ -15,13 +15,13 @@
   __/ |                                         \__________/
  |___/                                      .------------------.
                                             `------------------'
-</pre>
 
 <br>
 <code>[ Full Stack Developer • Database Design • System Analyst ]</code><br>
 <br><br>
 <code>[ Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS ]</code><br>
 <br>
+</pre>
     </td>
     <td valign="top" width="50%">
 <pre>
