@@ -52,25 +52,14 @@
 
 <br>
 
-<pre>
-                                       __
-                                      |  |
-                                      |  |
-                                   ___|  |___
-                                  |          |
-                                  |          |
-                                   \        /
-                                    \______/
-</pre>
-
-<p align="center">
-  <kbd><a href="https://gelbiasa.github.io/">🌐 Portfolio</a></kbd> &nbsp;
-  <kbd><a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">📄 Resume / CV</a></kbd> &nbsp;
-  <kbd><a href="https://www.linkedin.com/in/gelbifirmansyah/">💼 LinkedIn</a></kbd> &nbsp;
-  <kbd><a href="https://instagram.com/gelbiasa">📸 Instagram</a></kbd> &nbsp;
-  <kbd><a href="https://wa.me/6285804049240">💬 WhatsApp</a></kbd> &nbsp;
-  <kbd><a href="mailto:gelbifirmansyah12@gmail.com">📧 Email</a></kbd>
-</p>
+<h3 align="center">
+  <kbd>&nbsp;&nbsp;<a href="https://gelbiasa.github.io/">🌐 Portfolio</a>&nbsp;&nbsp;</kbd> &nbsp;
+  <kbd>&nbsp;&nbsp;<a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">📄 Resume / CV</a>&nbsp;&nbsp;</kbd> &nbsp;
+  <kbd>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/gelbifirmansyah/">💼 LinkedIn</a>&nbsp;&nbsp;</kbd> &nbsp;
+  <kbd>&nbsp;&nbsp;<a href="https://instagram.com/gelbiasa">📸 Instagram</a>&nbsp;&nbsp;</kbd> &nbsp;
+  <kbd>&nbsp;&nbsp;<a href="https://wa.me/6285804049240">💬 WhatsApp</a>&nbsp;&nbsp;</kbd> &nbsp;
+  <kbd>&nbsp;&nbsp;<a href="mailto:gelbifirmansyah12@gmail.com">📧 Email</a>&nbsp;&nbsp;</kbd>
+</h3>
 
 <br>
 
