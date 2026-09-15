@@ -50,14 +50,14 @@
   </tr>
 </table>
 
-<h2 align="center">
+<h1 align="center">
   <a href="https://gelbiasa.github.io/"><kbd>&nbsp;&nbsp;&nbsp;🌐 Portfolio&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
-  <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link"><kbd>&nbsp;&nbsp;&nbsp;📄 Resume / CV&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
-  <a href="https://www.linkedin.com/in/gelbifirmansyah/"><kbd>&nbsp;&nbsp;&nbsp;💼 LinkedIn&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
+  <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link"><kbd>&nbsp;&nbsp;📄 Resume / CV&nbsp;&nbsp;</kbd></a> &nbsp;
+  <a href="https://www.linkedin.com/in/gelbifirmansyah/"><kbd>&nbsp;&nbsp;&nbsp;💼 LinkedIn&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a> <br><br>
   <a href="https://instagram.com/gelbiasa"><kbd>&nbsp;&nbsp;&nbsp;📸 Instagram&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
-  <a href="https://wa.me/6285804049240"><kbd>&nbsp;&nbsp;&nbsp;💬 WhatsApp&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
-  <a href="mailto:gelbifirmansyah12@gmail.com"><kbd>&nbsp;&nbsp;&nbsp;📧 Email&nbsp;&nbsp;&nbsp;</kbd></a>
-</h2>
+  <a href="https://wa.me/6285804049240"><kbd>&nbsp;&nbsp;&nbsp;💬 WhatsApp&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a> &nbsp;
+  <a href="mailto:gelbifirmansyah12@gmail.com"><kbd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📧 Email&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</kbd></a>
+</h1>
 
 <br>
 
