@@ -52,13 +52,24 @@
 
 <br>
 
+<pre>
+                                       __
+                                      |  |
+                                      |  |
+                                   ___|  |___
+                                  |          |
+                                  |          |
+                                   \        /
+                                    \______/
+</pre>
+
 <p align="center">
-  <kbd><a href="https://gelbiasa.github.io/">$ ./portfolio.sh</a></kbd> &nbsp;
-  <kbd><a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">$ cat CV.pdf</a></kbd> &nbsp;
-  <kbd><a href="https://www.linkedin.com/in/gelbifirmansyah/">$ ssh linkedin</a></kbd> &nbsp;
-  <kbd><a href="https://instagram.com/gelbiasa">$ curl instagram</a></kbd> &nbsp;
-  <kbd><a href="https://wa.me/6285804049240">$ ping whatsapp</a></kbd> &nbsp;
-  <kbd><a href="mailto:gelbifirmansyah12@gmail.com">$ mailto email</a></kbd>
+  <kbd><a href="https://gelbiasa.github.io/">🌐 Portfolio</a></kbd> &nbsp;
+  <kbd><a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link">📄 Resume / CV</a></kbd> &nbsp;
+  <kbd><a href="https://www.linkedin.com/in/gelbifirmansyah/">💼 LinkedIn</a></kbd> &nbsp;
+  <kbd><a href="https://instagram.com/gelbiasa">📸 Instagram</a></kbd> &nbsp;
+  <kbd><a href="https://wa.me/6285804049240">💬 WhatsApp</a></kbd> &nbsp;
+  <kbd><a href="mailto:gelbifirmansyah12@gmail.com">📧 Email</a></kbd>
 </p>
 
 <br>
