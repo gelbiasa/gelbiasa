@@ -17,12 +17,9 @@
   __/ |                                         \__________/
  |___/                                      .------------------.
                                             `------------------'
-
-
-
-
+<br><br><br>
 <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
-
+<br><br>
 <code>[ Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS ]</code>
 </pre>
     </td>
