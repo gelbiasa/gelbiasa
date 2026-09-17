@@ -48,14 +48,14 @@
   </tr>
 </table>
 
-<h1 align="center">
-  <a href="https://gelbiasa.github.io/"><kbd><big><big>🌐 Portfolio</big></big></kbd></a> &nbsp;
-  <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link"><kbd><big><big>📄 CV</big></big></kbd></a> &nbsp;
-  <a href="https://www.linkedin.com/in/gelbifirmansyah/"><kbd><big><big>💼 LinkedIn</big></big></kbd></a> &nbsp;
-  <a href="https://instagram.com/gelbiasa"><kbd><big><big>📸 Instagram</big></big></kbd></a> &nbsp;
-  <a href="https://wa.me/6285804049240"><kbd><big><big>💬 WhatsApp</big></big></kbd></a> &nbsp;
-  <a href="mailto:gelbifirmansyah12@gmail.com"><kbd><big><big>📧 Email</big></big></kbd></a>
-</h1>
+<p align="center">
+  <a href="https://gelbiasa.github.io/"><img src="https://img.shields.io/badge/Portfolio-083344?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" alt="Portfolio"></a>
+  <a href="https://drive.google.com/file/d/106X_M2m8qUaIUsxzCtm_u2v1jOpIQxyA/view?usp=drive_link"><img src="https://img.shields.io/badge/CV-083344?style=for-the-badge&logo=googledocs&logoColor=white" height="35" alt="CV"></a>
+  <a href="https://www.linkedin.com/in/gelbifirmansyah/"><img src="https://img.shields.io/badge/LinkedIn-083344?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"></a>
+  <a href="https://instagram.com/gelbiasa"><img src="https://img.shields.io/badge/Instagram-083344?style=for-the-badge&logo=instagram&logoColor=white" height="35" alt="Instagram"></a>
+  <a href="https://wa.me/6285804049240"><img src="https://img.shields.io/badge/WhatsApp-083344?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"></a>
+  <a href="mailto:gelbifirmansyah12@gmail.com"><img src="https://img.shields.io/badge/Email-083344?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"></a>
+</p>
 
 <br>
 
