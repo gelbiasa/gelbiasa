@@ -63,15 +63,22 @@
 
 ### 📊 GitHub Stats
 
-<a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-  <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" />
-</a>
-<br><br>
-<a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-  <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" />
-</a>
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+        <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+        <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br><br>
+<br>
 
 ```text
 // Thanks for visiting — let's build something awesome together! 🚀
