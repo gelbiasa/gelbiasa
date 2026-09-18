@@ -1,47 +1,26 @@
-<svg width="800" height="40" viewBox="0 0 800 40" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
-    <filter id="glow-intense" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="1.5" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
-    </filter>
+<svg width="800" height="16" viewBox="0 0 800 16" fill="none" xmlns="http://www.w3.org/2000/svg" shape-rendering="crispEdges">
+  <!-- Left Solid Line -->
+  <path d="M0 8 L 380 8" stroke="#06b6d4" stroke-width="2" />
+  
+  <!-- Center Classic Retro Pixel Diamond -->
+  <g fill="#22d3ee">
+    <!-- Top tip -->
+    <rect x="398" y="2" width="4" height="2" />
+    <!-- Upper body -->
+    <rect x="396" y="4" width="8" height="2" fill="#cffafe" />
+    <!-- Center belt -->
+    <rect x="394" y="6" width="12" height="4" fill="#cffafe" />
+    <!-- Lower body -->
+    <rect x="396" y="10" width="8" height="2" fill="#cffafe" />
+    <!-- Bottom tip -->
+    <rect x="398" y="12" width="4" height="2" />
     
-    <linearGradient id="fade-left" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0" />
-      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#22d3ee" stop-opacity="1" />
-    </linearGradient>
-    <linearGradient id="fade-right" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#22d3ee" stop-opacity="1" />
-      <stop offset="50%" stop-color="#06b6d4" stop-opacity="0.8" />
-      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0" />
-    </linearGradient>
-  </defs>
-
-  <!-- Left Line Segment -->
-  <path d="M50 20 L 350 20" stroke="url(#fade-left)" stroke-width="2.5" filter="url(#glow)" stroke-linecap="round" />
-  <path d="M250 20 L 350 20" stroke="#cffafe" stroke-width="1" stroke-dasharray="2 4" opacity="0.8" />
-
-  <!-- Right Line Segment -->
-  <path d="M450 20 L 750 20" stroke="url(#fade-right)" stroke-width="2.5" filter="url(#glow)" stroke-linecap="round" />
-  <path d="M450 20 L 550 20" stroke="#cffafe" stroke-width="1" stroke-dasharray="2 4" opacity="0.8" />
-
-  <!-- Center Piece -->
-  <!-- Outer brackets -->
-  <path d="M370 12 L 360 20 L 370 28" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-  <path d="M430 12 L 440 20 L 430 28" stroke="#3b82f6" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-  
-  <!-- Glowing diamonds -->
-  <g filter="url(#glow-intense)">
-    <polygon points="400,10 410,20 400,30 390,20" fill="#cffafe" />
-    <polygon points="383,14 389,20 383,26 377,20" fill="#22d3ee" />
-    <polygon points="417,14 423,20 417,26 411,20" fill="#22d3ee" />
+    <!-- Left satellite pixel -->
+    <rect x="386" y="6" width="4" height="4" />
+    <!-- Right satellite pixel -->
+    <rect x="410" y="6" width="4" height="4" />
   </g>
-  
-  <!-- Decorative tech dots -->
-  <circle cx="340" cy="20" r="3" fill="#083344" stroke="#22d3ee" stroke-width="1.5" />
-  <circle cx="460" cy="20" r="3" fill="#083344" stroke="#22d3ee" stroke-width="1.5" />
+
+  <!-- Right Solid Line -->
+  <path d="M420 8 L 800 8" stroke="#06b6d4" stroke-width="2" />
 </svg>
