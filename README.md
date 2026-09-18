@@ -57,6 +57,12 @@
   <a href="mailto:gelbifirmansyah12@gmail.com"><img src="https://img.shields.io/badge/Email-083344?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email"></a>
 </p>
 
+<div align="center">
+  <img src="./assets/divider.svg" width="100%" alt="divider" />
+</div>
+
+<br>
+
 ### 📊 GitHub Stats
 
 <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
