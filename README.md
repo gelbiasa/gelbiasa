@@ -58,10 +58,8 @@
 </p>
 
 <div align="center">
-  <img src="./assets/divider.svg" width="100%" alt="divider" />
+  <img src="./assets/divider.svg" width="200%" alt="divider" />
 </div>
-
-<br>
 
 ### 📊 GitHub Stats
 
