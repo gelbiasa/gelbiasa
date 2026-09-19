@@ -69,7 +69,6 @@
     <td width="15%" align="center" valign="middle">
       <img src="./assets/campfire.svg" width="80" alt="Campfire Left" />
     </td>
-    
     <!-- Center Stats (Stacked) -->
     <td width="70%" align="center">
       <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
@@ -80,7 +79,6 @@
         <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" width="100%" />
       </a>
     </td>
-    
     <!-- Right Campfire -->
     <td width="15%" align="center" valign="middle">
       <img src="./assets/campfire.svg" width="80" alt="Campfire Right" />
