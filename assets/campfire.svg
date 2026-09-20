@@ -1,61 +1,65 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 700" width="100%" height="100%">
   <defs>
     <!-- Glow filter for neon effect -->
-    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="3" result="blur" />
+    <filter id="neonGlow" x="-50%" y="-10%" width="200%" height="120%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
 
-  <!-- Glowing background aura -->
-  <circle cx="50" cy="65" r="25" fill="#06b6d4" opacity="0.15">
-    <animate attributeName="r" values="25; 28; 25" dur="1.5s" repeatCount="indefinite" />
+  <!-- Glowing background aura (oval, stretched upwards) -->
+  <ellipse cx="75" cy="550" rx="40" ry="120" fill="#06b6d4" opacity="0.15">
+    <animate attributeName="ry" values="120; 150; 120" dur="1.5s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0.15; 0.25; 0.15" dur="1.5s" repeatCount="indefinite" />
-  </circle>
+  </ellipse>
 
-  <!-- Logs (Cyberpunk dark blue) -->
-  <g transform="translate(0, 10)">
-    <rect x="25" y="70" width="50" height="8" rx="3" fill="#172554" stroke="#083344" stroke-width="2" transform="rotate(20 50 74)" />
-    <rect x="25" y="70" width="50" height="8" rx="3" fill="#083344" stroke="#172554" stroke-width="2" transform="rotate(-20 50 74)" />
+  <!-- Logs at the bottom -->
+  <g transform="translate(0, 60)">
+    <rect x="35" y="600" width="80" height="15" rx="5" fill="#172554" stroke="#083344" stroke-width="3" transform="rotate(20 75 610)" />
+    <rect x="35" y="600" width="80" height="15" rx="5" fill="#083344" stroke="#172554" stroke-width="3" transform="rotate(-20 75 610)" />
   </g>
 
-  <!-- Main Flame (Deep Neon Cyan) -->
-  <path d="M50,15 C30,45 25,65 50,80 C75,65 70,45 50,15 Z" fill="#06b6d4" filter="url(#neonGlow)">
+  <!-- Tall Main Flame (Deep Neon Cyan) -->
+  <path d="M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z" fill="#06b6d4" filter="url(#neonGlow)">
     <animate attributeName="d" 
-      values="M50,15 C30,45 25,65 50,80 C75,65 70,45 50,15 Z;
-              M50,10 C35,45 20,65 50,80 C80,65 65,45 50,10 Z;
-              M50,20 C25,45 30,65 50,80 C70,65 75,45 50,20 Z;
-              M50,15 C30,45 25,65 50,80 C75,65 70,45 50,15 Z" 
+      values="M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z;
+              M75,50 C45,400 15,600 75,650 C135,600 105,400 75,50 Z;
+              M75,150 C15,400 35,600 75,650 C115,600 135,400 75,150 Z;
+              M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z" 
+      dur="0.8s" repeatCount="indefinite" />
+  </path>
+
+  <!-- Tall Inner Flame (Bright Cyan) -->
+  <path d="M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z" fill="#22d3ee" filter="url(#neonGlow)">
+    <animate attributeName="d" 
+      values="M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z;
+              M75,200 C55,450 35,620 75,650 C115,620 95,450 75,200 Z;
+              M75,300 C35,450 45,620 75,650 C105,620 115,450 75,300 Z;
+              M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z" 
       dur="0.6s" repeatCount="indefinite" />
   </path>
 
-  <!-- Inner Flame (Bright Cyan) -->
-  <path d="M50,35 C38,55 35,68 50,78 C65,68 62,55 50,35 Z" fill="#22d3ee" filter="url(#neonGlow)">
+  <!-- Tall Core Flame (White) -->
+  <path d="M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z" fill="#cffafe">
     <animate attributeName="d" 
-      values="M50,35 C38,55 35,68 50,78 C65,68 62,55 50,35 Z;
-              M50,30 C42,55 32,68 50,78 C68,68 58,55 50,30 Z;
-              M50,40 C34,55 38,68 50,78 C62,68 66,55 50,40 Z;
-              M50,35 C38,55 35,68 50,78 C65,68 62,55 50,35 Z" 
+      values="M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z;
+              M75,420 C60,550 45,630 75,650 C105,630 90,550 75,420 Z;
+              M75,480 C50,550 55,630 75,650 C95,630 100,550 75,480 Z;
+              M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z" 
       dur="0.4s" repeatCount="indefinite" />
   </path>
-
-  <!-- Core Flame (White) -->
-  <path d="M50,55 C45,65 42,72 50,76 C58,72 55,65 50,55 Z" fill="#cffafe">
-    <animate attributeName="d" 
-      values="M50,55 C45,65 42,72 50,76 C58,72 55,65 50,55 Z;
-              M50,52 C46,65 41,72 50,76 C59,72 54,65 50,52 Z;
-              M50,58 C44,65 43,72 50,76 C57,72 56,65 50,58 Z;
-              M50,55 C45,65 42,72 50,76 C58,72 55,65 50,55 Z" 
-      dur="0.3s" repeatCount="indefinite" />
-  </path>
   
-  <!-- Sparks -->
-  <circle cx="45" cy="30" r="1.5" fill="#cffafe" opacity="0">
-    <animate attributeName="cy" values="40; 10" dur="0.8s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0; 1; 0" dur="0.8s" repeatCount="indefinite" />
+  <!-- Sparks traveling upwards -->
+  <circle cx="65" cy="300" r="3" fill="#cffafe" opacity="0">
+    <animate attributeName="cy" values="400; 50" dur="1s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 0" dur="1s" repeatCount="indefinite" />
   </circle>
-  <circle cx="55" cy="40" r="1.5" fill="#22d3ee" opacity="0">
-    <animate attributeName="cy" values="50; 20" dur="1.1s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0; 1; 0" dur="1.1s" repeatCount="indefinite" />
+  <circle cx="85" cy="400" r="3" fill="#22d3ee" opacity="0">
+    <animate attributeName="cy" values="500; 150" dur="1.3s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 0" dur="1.3s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="70" cy="500" r="2" fill="#cffafe" opacity="0">
+    <animate attributeName="cy" values="600; 250" dur="0.9s" repeatCount="indefinite" />
+    <animate attributeName="opacity" values="0; 1; 0" dur="0.9s" repeatCount="indefinite" />
   </circle>
 </svg>
