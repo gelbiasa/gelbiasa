@@ -67,7 +67,7 @@
   <tr>
     <!-- Left Campfire -->
     <td width="15%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpianZjODJ1czRhaGpmaXBvZGR0d3diZ283OGR4ZzV0Z2tmZ3U0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XUTPza8I8MyVG/giphy.gif" width="80" alt="Campfire Left" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpianZjODJ1czRhaGpmaXBvZGR0d3diZ283OGR4ZzV0Z2tmZ3U0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XUTPza8I8MyVG/giphy.gif" width="100%" alt="Campfire Left" />
     </td>
     <!-- Center Stats (Stacked) -->
     <td width="70%" align="center">
@@ -81,7 +81,7 @@
     </td>
     <!-- Right Campfire -->
     <td width="15%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpianZjODJ1czRhaGpmaXBvZGR0d3diZ283OGR4ZzV0Z2tmZ3U0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XUTPza8I8MyVG/giphy.gif" width="80" alt="Campfire Right" />
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHpianZjODJ1czRhaGpmaXBvZGR0d3diZ283OGR4ZzV0Z2tmZ3U0MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/XUTPza8I8MyVG/giphy.gif" width="100%" alt="Campfire Right" />
     </td>
   </tr>
 </table>
