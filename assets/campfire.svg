@@ -1,65 +1,306 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 700" width="100%" height="100%">
   <defs>
-    <!-- Glow filter for neon effect -->
-    <filter id="neonGlow" x="-50%" y="-10%" width="200%" height="120%">
-      <feGaussianBlur stdDeviation="8" result="blur" />
-      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    <!-- ============ GRADIENTS ============ -->
+    <!-- Main tall flame: white core → bright cyan → mid cyan → deep teal → transparent -->
+    <linearGradient id="flameTall" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="10%"  stop-color="#e0f7ff"/>
+      <stop offset="28%"  stop-color="#22d3ee"/>
+      <stop offset="55%"  stop-color="#0891b2"/>
+      <stop offset="80%"  stop-color="#0e4d6e"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Mid flame: bright cyan → teal -->
+    <linearGradient id="flameMid" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="18%"  stop-color="#67e8f9"/>
+      <stop offset="50%"  stop-color="#06b6d4"/>
+      <stop offset="85%"  stop-color="#0284c7" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Core flame: pure white → ice blue -->
+    <linearGradient id="flameCore" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="30%"  stop-color="#e0f7ff"/>
+      <stop offset="70%"  stop-color="#bae6fd"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Wisp flame: outer tendrils -->
+    <linearGradient id="flameWisp" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#06b6d4" stop-opacity="0.9"/>
+      <stop offset="40%"  stop-color="#0891b2" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#0e7490" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Extra wisp: thin curling tendril -->
+    <linearGradient id="flameCurl" x1="0" y1="1" x2="0" y2="0">
+      <stop offset="0%"   stop-color="#22d3ee" stop-opacity="0.7"/>
+      <stop offset="60%"  stop-color="#0891b2" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Base ground glow -->
+    <radialGradient id="groundGlow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%"   stop-color="#06b6d4" stop-opacity="0.5"/>
+      <stop offset="50%"  stop-color="#0891b2" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Ember dot gradient -->
+    <radialGradient id="sparkGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#ffffff"/>
+      <stop offset="50%"  stop-color="#67e8f9"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- Log gradient -->
+    <linearGradient id="logGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#1e3a4a"/>
+      <stop offset="50%"  stop-color="#0f1f28"/>
+      <stop offset="100%" stop-color="#060d12"/>
+    </linearGradient>
+
+    <!-- Smoke radial -->
+    <radialGradient id="smokeGrad" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"   stop-color="#8ecfdf" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#06b6d4"  stop-opacity="0"/>
+    </radialGradient>
+
+    <!-- ============ FILTERS ============ -->
+    <!-- Soft outer glow -->
+    <filter id="glow" x="-60%" y="-15%" width="220%" height="130%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Very strong bloom for core -->
+    <filter id="bloom" x="-80%" y="-20%" width="260%" height="140%">
+      <feGaussianBlur stdDeviation="12" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft blur for smoke / aura -->
+    <filter id="softBlur">
+      <feGaussianBlur stdDeviation="9"/>
+    </filter>
+
+    <!-- Ember glow -->
+    <filter id="emberFilter" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
   </defs>
 
-  <!-- Glowing background aura (oval, stretched upwards) -->
-  <ellipse cx="75" cy="550" rx="40" ry="120" fill="#06b6d4" opacity="0.15">
-    <animate attributeName="ry" values="120; 150; 120" dur="1.5s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0.15; 0.25; 0.15" dur="1.5s" repeatCount="indefinite" />
-  </ellipse>
 
-  <!-- Logs at the bottom -->
-  <g transform="translate(0, 60)">
-    <rect x="35" y="600" width="80" height="15" rx="5" fill="#172554" stroke="#083344" stroke-width="3" transform="rotate(20 75 610)" />
-    <rect x="35" y="600" width="80" height="15" rx="5" fill="#083344" stroke="#172554" stroke-width="3" transform="rotate(-20 75 610)" />
+  <!-- ============ SMOKE PLUMES ============ -->
+  <g opacity="0.5">
+    <ellipse cx="72" cy="90" rx="20" ry="28" fill="url(#smokeGrad)" filter="url(#softBlur)">
+      <animate attributeName="cy"  values="120;40;5"   dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="rx"  values="14;24;34"   dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="4.5s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="82" cy="80" rx="13" ry="20" fill="url(#smokeGrad)" filter="url(#softBlur)">
+      <animate attributeName="cy"  values="130;55;10"  dur="5.2s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="rx"  values="9;18;28"    dur="5.2s" begin="1.2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="5.2s" begin="1.2s" repeatCount="indefinite"/>
+    </ellipse>
+    <ellipse cx="62" cy="100" rx="10" ry="15" fill="url(#smokeGrad)" filter="url(#softBlur)">
+      <animate attributeName="cy"  values="150;70;20"  dur="3.8s" begin="0.6s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.3;0" dur="3.8s" begin="0.6s" repeatCount="indefinite"/>
+    </ellipse>
   </g>
 
-  <!-- Tall Main Flame (Deep Neon Cyan) -->
-  <path d="M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z" fill="#06b6d4" filter="url(#neonGlow)">
-    <animate attributeName="d" 
-      values="M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z;
-              M75,50 C45,400 15,600 75,650 C135,600 105,400 75,50 Z;
-              M75,150 C15,400 35,600 75,650 C115,600 135,400 75,150 Z;
-              M75,100 C30,400 25,600 75,650 C125,600 120,400 75,100 Z" 
-      dur="0.8s" repeatCount="indefinite" />
+
+  <!-- ============ BASE HALO GLOW ============ -->
+  <ellipse cx="75" cy="635" rx="65" ry="85" fill="url(#groundGlow)" filter="url(#softBlur)">
+    <animate attributeName="rx"  values="60;75;60" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="ry"  values="80;100;80" dur="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.8;1;0.8" dur="1.3s" repeatCount="indefinite"/>
+  </ellipse>
+
+
+  <!-- ============ OUTER LEFT WISP ============ -->
+  <path d="M75,310 C38,380 12,470 22,560 C32,600 55,625 75,640 Z"
+        fill="url(#flameWisp)" filter="url(#glow)" opacity="0.6">
+    <animate attributeName="d" dur="1.0s" repeatCount="indefinite"
+      values="
+        M75,310 C38,380 12,470 22,560 C32,600 55,625 75,640 Z;
+        M75,280 C30,360  5,455 18,558 C29,600 54,628 75,640 Z;
+        M75,340 C45,395 20,485 28,562 C36,598 57,622 75,640 Z;
+        M75,310 C38,380 12,470 22,560 C32,600 55,625 75,640 Z"/>
   </path>
 
-  <!-- Tall Inner Flame (Bright Cyan) -->
-  <path d="M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z" fill="#22d3ee" filter="url(#neonGlow)">
-    <animate attributeName="d" 
-      values="M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z;
-              M75,200 C55,450 35,620 75,650 C115,620 95,450 75,200 Z;
-              M75,300 C35,450 45,620 75,650 C105,620 115,450 75,300 Z;
-              M75,250 C45,450 40,620 75,650 C110,620 105,450 75,250 Z" 
-      dur="0.6s" repeatCount="indefinite" />
+  <!-- ============ OUTER RIGHT WISP ============ -->
+  <path d="M75,310 C112,380 138,470 128,560 C118,600 95,625 75,640 Z"
+        fill="url(#flameWisp)" filter="url(#glow)" opacity="0.6">
+    <animate attributeName="d" dur="1.15s" repeatCount="indefinite"
+      values="
+        M75,310 C112,380 138,470 128,560 C118,600 95,625 75,640 Z;
+        M75,280 C120,360 145,455 132,558 C121,600 96,628 75,640 Z;
+        M75,340 C105,395 130,485 122,562 C114,598 93,622 75,640 Z;
+        M75,310 C112,380 138,470 128,560 C118,600 95,625 75,640 Z"/>
   </path>
 
-  <!-- Tall Core Flame (White) -->
-  <path d="M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z" fill="#cffafe">
-    <animate attributeName="d" 
-      values="M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z;
-              M75,420 C60,550 45,630 75,650 C105,630 90,550 75,420 Z;
-              M75,480 C50,550 55,630 75,650 C95,630 100,550 75,480 Z;
-              M75,450 C55,550 50,630 75,650 C100,630 95,550 75,450 Z" 
-      dur="0.4s" repeatCount="indefinite" />
+  <!-- ============ CURLING LEFT TENDRIL ============ -->
+  <path d="M75,200 C52,260 30,320 28,400 C26,460 42,530 60,580 C68,610 75,635 75,640 Z"
+        fill="url(#flameCurl)" filter="url(#glow)" opacity="0.55">
+    <animate attributeName="d" dur="0.85s" repeatCount="indefinite"
+      values="
+        M75,200 C52,260 30,320 28,400 C26,460 42,530 60,580 C68,610 75,635 75,640 Z;
+        M75,160 C48,240 24,305 20,395 C18,458 38,528 58,580 C67,612 75,637 75,640 Z;
+        M75,230 C56,272 35,335 34,405 C32,462 46,532 62,580 C69,608 75,633 75,640 Z;
+        M75,200 C52,260 30,320 28,400 C26,460 42,530 60,580 C68,610 75,635 75,640 Z"/>
   </path>
-  
-  <!-- Sparks traveling upwards -->
-  <circle cx="65" cy="300" r="3" fill="#cffafe" opacity="0">
-    <animate attributeName="cy" values="400; 50" dur="1s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0; 1; 0" dur="1s" repeatCount="indefinite" />
+
+  <!-- ============ CURLING RIGHT TENDRIL ============ -->
+  <path d="M75,200 C98,260 120,320 122,400 C124,460 108,530 90,580 C82,610 75,635 75,640 Z"
+        fill="url(#flameCurl)" filter="url(#glow)" opacity="0.55">
+    <animate attributeName="d" dur="0.95s" repeatCount="indefinite"
+      values="
+        M75,200 C98,260 120,320 122,400 C124,460 108,530 90,580 C82,610 75,635 75,640 Z;
+        M75,160 C102,240 126,305 130,395 C132,458 112,528 92,580 C83,612 75,637 75,640 Z;
+        M75,230 C94,272 115,335 116,405 C118,462 104,532 88,580 C81,608 75,633 75,640 Z;
+        M75,200 C98,260 120,320 122,400 C124,460 108,530 90,580 C82,610 75,635 75,640 Z"/>
+  </path>
+
+  <!-- ============ MAIN FLAME BODY ============ -->
+  <path d="M75,145 C46,240 28,380 42,540 C52,590 65,620 75,640 C85,620 98,590 108,540 C122,380 104,240 75,145 Z"
+        fill="url(#flameTall)" filter="url(#glow)">
+    <animate attributeName="d" dur="0.72s" repeatCount="indefinite"
+      values="
+        M75,145 C46,240 28,380 42,540 C52,590 65,620 75,640 C85,620 98,590 108,540 C122,380 104,240 75,145 Z;
+        M75,105 C40,220 20,365 36,538 C48,591 64,622 75,640 C86,622 102,591 114,538 C130,365 110,220 75,105 Z;
+        M75,175 C52,255 36,392 48,542 C56,589 66,618 75,640 C84,618 94,589 102,542 C114,392 98,255 75,175 Z;
+        M75,145 C46,240 28,380 42,540 C52,590 65,620 75,640 C85,620 98,590 108,540 C122,380 104,240 75,145 Z"/>
+  </path>
+
+  <!-- ============ SECONDARY FLAME (narrower, brighter) ============ -->
+  <path d="M75,230 C55,330 42,450 56,565 C63,600 71,628 75,640 C79,628 87,600 94,565 C108,450 95,330 75,230 Z"
+        fill="url(#flameMid)" filter="url(#glow)">
+    <animate attributeName="d" dur="0.58s" repeatCount="indefinite"
+      values="
+        M75,230 C55,330 42,450 56,565 C63,600 71,628 75,640 C79,628 87,600 94,565 C108,450 95,330 75,230 Z;
+        M75,190 C50,310 36,435 50,563 C59,600 70,629 75,640 C80,629 91,600 100,563 C114,435 100,310 75,190 Z;
+        M75,260 C60,345 48,462 60,567 C66,598 72,627 75,640 C78,627 84,598 90,567 C102,462 90,345 75,260 Z;
+        M75,230 C55,330 42,450 56,565 C63,600 71,628 75,640 C79,628 87,600 94,565 C108,450 95,330 75,230 Z"/>
+  </path>
+
+  <!-- ============ INNER BRIGHT FLAME ============ -->
+  <path d="M75,350 C60,420 55,510 65,590 C69,615 73,635 75,640 C77,635 81,615 85,590 C95,510 90,420 75,350 Z"
+        fill="url(#flameCore)" filter="url(#bloom)">
+    <animate attributeName="d" dur="0.45s" repeatCount="indefinite"
+      values="
+        M75,350 C60,420 55,510 65,590 C69,615 73,635 75,640 C77,635 81,615 85,590 C95,510 90,420 75,350 Z;
+        M75,320 C58,405 52,500 63,589 C68,617 73,637 75,640 C77,637 82,617 87,589 C98,500 92,405 75,320 Z;
+        M75,375 C62,432 58,518 67,591 C70,613 73,633 75,640 C77,633 80,613 83,591 C92,518 88,432 75,375 Z;
+        M75,350 C60,420 55,510 65,590 C69,615 73,635 75,640 C77,635 81,615 85,590 C95,510 90,420 75,350 Z"/>
+  </path>
+
+  <!-- ============ WHITE-HOT CORE ============ -->
+  <path d="M75,490 C68,535 65,590 70,622 C72,633 74,640 75,640 C76,640 78,633 80,622 C85,590 82,535 75,490 Z"
+        fill="#ffffff" filter="url(#bloom)">
+    <animate attributeName="d" dur="0.35s" repeatCount="indefinite"
+      values="
+        M75,490 C68,535 65,590 70,622 C72,633 74,640 75,640 C76,640 78,633 80,622 C85,590 82,535 75,490 Z;
+        M75,470 C67,520 63,585 68,621 C71,634 74,641 75,640 C76,641 79,634 82,621 C87,585 83,520 75,470 Z;
+        M75,505 C69,542 67,593 71,623 C73,632 74,639 75,640 C76,639 77,632 79,623 C83,593 81,542 75,505 Z;
+        M75,490 C68,535 65,590 70,622 C72,633 74,640 75,640 C76,640 78,633 80,622 C85,590 82,535 75,490 Z"/>
+  </path>
+
+
+  <!-- ============ FLOATING SPARKS ============ -->
+  <!-- Each spark: rises, fades, shrinks -->
+  <circle cx="60" cy="550" r="3" fill="url(#sparkGrad)" opacity="0" filter="url(#emberFilter)">
+    <animate attributeName="cy"  values="560;100" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="60;45"   dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.8;0" dur="1.6s" repeatCount="indefinite"/>
+    <animate attributeName="r"   values="3;2;0.5" dur="1.6s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="85" cy="400" r="3" fill="#22d3ee" opacity="0">
-    <animate attributeName="cy" values="500; 150" dur="1.3s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0; 1; 0" dur="1.3s" repeatCount="indefinite" />
+
+  <circle cx="90" cy="530" r="2.5" fill="#ffffff" opacity="0" filter="url(#emberFilter)">
+    <animate attributeName="cy"  values="540;150" dur="2.0s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="90;105"  dur="2.0s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.7;0" dur="2.0s" begin="0.4s" repeatCount="indefinite"/>
+    <animate attributeName="r"   values="2.5;1.5;0.3" dur="2.0s" begin="0.4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="70" cy="500" r="2" fill="#cffafe" opacity="0">
-    <animate attributeName="cy" values="600; 250" dur="0.9s" repeatCount="indefinite" />
-    <animate attributeName="opacity" values="0; 1; 0" dur="0.9s" repeatCount="indefinite" />
+
+  <circle cx="68" cy="480" r="2" fill="url(#sparkGrad)" opacity="0" filter="url(#emberFilter)">
+    <animate attributeName="cy"  values="500;200" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="68;55"   dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="1.2s" begin="0.8s" repeatCount="indefinite"/>
   </circle>
+
+  <circle cx="82" cy="460" r="3.5" fill="url(#sparkGrad)" opacity="0" filter="url(#emberFilter)">
+    <animate attributeName="cy"  values="490;120" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="82;98"   dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0.5;0" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+    <animate attributeName="r"   values="3.5;1.5;0.5" dur="2.4s" begin="1.3s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="74" cy="510" r="2" fill="#e0f7ff" opacity="0">
+    <animate attributeName="cy"  values="530;300" dur="1.0s" begin="0.2s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="74;65"   dur="1.0s" begin="0.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="1.0s" begin="0.2s" repeatCount="indefinite"/>
+  </circle>
+
+  <circle cx="78" cy="470" r="1.5" fill="#67e8f9" opacity="0">
+    <animate attributeName="cy"  values="490;250" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="cx"  values="78;88"   dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="1.5s" begin="1.8s" repeatCount="indefinite"/>
+  </circle>
+
+
+  <!-- ============ GLOWING EMBERS ON LOGS ============ -->
+  <ellipse cx="54" cy="659" rx="9" ry="3.5" fill="#06b6d4" opacity="0.5">
+    <animate attributeName="opacity" values="0.2;0.7;0.2" dur="1.4s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="96" cy="661" rx="7" ry="3" fill="#22d3ee" opacity="0.4">
+    <animate attributeName="opacity" values="0.4;0.9;0.4" dur="1.1s" begin="0.5s" repeatCount="indefinite"/>
+  </ellipse>
+  <ellipse cx="75" cy="665" rx="12" ry="4" fill="url(#groundGlow)" opacity="0.8">
+    <animate attributeName="opacity" values="0.6;1;0.6" dur="0.9s" repeatCount="indefinite"/>
+    <animate attributeName="rx"     values="10;14;10"   dur="0.9s" repeatCount="indefinite"/>
+  </ellipse>
+
+
+  <!-- ============ LOGS ============ -->
+  <!-- Left log -->
+  <rect x="25" y="654" width="62" height="16" rx="8"
+        fill="url(#logGrad)" transform="rotate(-22, 56, 662)"/>
+  <!-- Cyan crack glow on left log -->
+  <line x1="35" y1="661" x2="64" y2="655"
+        stroke="#06b6d4" stroke-width="1.5"
+        transform="rotate(-22, 56, 662)" opacity="0.6">
+    <animate attributeName="opacity" values="0.2;0.8;0.2" dur="1.3s" repeatCount="indefinite"/>
+  </line>
+  <!-- Right log -->
+  <rect x="63" y="654" width="62" height="16" rx="8"
+        fill="url(#logGrad)" transform="rotate(22, 94, 662)"/>
+  <!-- Cyan crack glow on right log -->
+  <line x1="74" y1="661" x2="103" y2="655"
+        stroke="#22d3ee" stroke-width="1.5"
+        transform="rotate(22, 94, 662)" opacity="0.5">
+    <animate attributeName="opacity" values="0.3;0.9;0.3" dur="1.0s" begin="0.3s" repeatCount="indefinite"/>
+  </line>
+
+
+  <!-- ============ GROUND LIGHT POOL ============ -->
+  <ellipse cx="75" cy="682" rx="50" ry="11" fill="#06b6d4" opacity="0.15">
+    <animate attributeName="opacity" values="0.10;0.22;0.10" dur="1.5s" repeatCount="indefinite"/>
+    <animate attributeName="rx"      values="45;55;45"       dur="1.5s" repeatCount="indefinite"/>
+  </ellipse>
 </svg>
