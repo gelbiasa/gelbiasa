@@ -17,12 +17,13 @@
   __/ |                                         \__________/
  |___/                                      .------------------.
                                             `------------------'
-
-  as a: Full Stack Developer • Database Design • System Analyst
-
-    tech stack: Laravel • PHP • MySQL • PostgreSQL • MongoDB
-           JavaScript • React • Flutter • HTML • CSS
 </pre>
+<div align="center">
+  <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
+  <br><br>
+  <code>[ Laravel • PHP • MySQL • PostgreSQL • MongoDB ]</code><br>
+  <code>[ JavaScript • React • Flutter • HTML • CSS ]</code>
+</div>
     </td>
     <td valign="top" width="50%">
 <pre>
