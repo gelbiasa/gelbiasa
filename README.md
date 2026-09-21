@@ -20,7 +20,7 @@
 <br>
       <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
 <br>
-<code>[ Laravel • PHP • MySQL • JavaScript • React • Flutter • HTML • CSS ]</code>
+<code>[ Laravel • PHP • MySQL • PostgreSQL • MongoDB • JavaScript • React • Flutter • HTML • CSS ]</code>
 </pre>
     </td>
     <td valign="top" width="50%">
