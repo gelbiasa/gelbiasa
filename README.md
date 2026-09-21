@@ -17,12 +17,11 @@
   __/ |                                         \__________/
  |___/                                      .------------------.
                                             `------------------'
-<br>
-      <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
-<br>
-<code>[ Laravel • PHP • MySQL • PostgreSQL • MongoDB ]</code>
-<br>
-<code>[ JavaScript • React • Flutter • HTML • CSS ]</code>
+
+  as a: Full Stack Developer • Database Design • System Analyst
+
+    tech stack: Laravel • PHP • MySQL • PostgreSQL • MongoDB
+           JavaScript • React • Flutter • HTML • CSS
 </pre>
     </td>
     <td valign="top" width="50%">
