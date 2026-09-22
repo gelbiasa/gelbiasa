@@ -19,10 +19,10 @@
                                             `------------------'
 </pre>
 <div align="center">
-  <img src="./assets/role_badge.svg" alt="Roles" />
+  <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
   <br><br>
-  <img src="./assets/tech_badge_1.svg" alt="Tech Stack 1" /><br>
-  <img src="./assets/tech_badge_2.svg" alt="Tech Stack 2" />
+  <code>[ Laravel • PHP • MySQL • PostgreSQL • MongoDB ]</code><br>
+  <code>[ JavaScript • React • Flutter • HTML • CSS ]</code>
 </div>
     </td>
     <td valign="top" width="50%">
