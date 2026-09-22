@@ -19,10 +19,10 @@
                                             `------------------'
 </pre>
 <div align="center">
-  <code>[ Full Stack Developer • Database Design • System Analyst ]</code>
+  $\colorbox{#083344}{\color{#cffafe}{\text{\texttt{[ Full Stack Developer • Database Design • System Analyst ]}}}}$
   <br><br>
-  <code>[ Laravel • PHP • MySQL • PostgreSQL • MongoDB ]</code><br>
-  <code>[ JavaScript • React • Flutter • HTML • CSS ]</code>
+  $\colorbox{#083344}{\color{#cffafe}{\text{\texttt{[ Laravel • PHP • MySQL • PostgreSQL • MongoDB ]}}}}$<br>
+  $\colorbox{#083344}{\color{#cffafe}{\text{\texttt{[ JavaScript • React • Flutter • HTML • CSS ]}}}}$
 </div>
     </td>
     <td valign="top" width="50%">
