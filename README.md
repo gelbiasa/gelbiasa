@@ -65,30 +65,24 @@
 
 ### 📊 GitHub Stats
 
-<table width="100%">
-  <tr>
-    <!-- Left Campfire -->
-    <td width="15%" align="center" valign="middle">
-      <img src="./assets/campfire.svg" width="100%" alt="Campfire Left" />
-    </td>
-    <!-- Center Stats (Stacked) -->
-    <td width="70%" align="center">
-      <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-        <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" width="100%" />
-      </a>
-      <br><br>
-      <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
-        <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" width="100%" />
-      </a>
-    </td>
-    <!-- Right Campfire -->
-    <td width="15%" align="center" valign="middle">
-      <img src="./assets/campfire.svg" width="100%" alt="Campfire Right" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <!-- Left Campfire (floated) -->
+  <img align="left" src="./assets/campfire.svg" width="13%" alt="Campfire Left" />
+  
+  <!-- Right Campfire (floated) -->
+  <img align="right" src="./assets/campfire.svg" width="13%" alt="Campfire Right" />
+  
+  <!-- Center Stats -->
+  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+    <img src="https://gelbysight.vercel.app/api/cards/stats/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee" alt="GitHub Stats" width="70%" />
+  </a>
+  <br><br>
+  <a href="https://gelbysight.vercel.app/dashboard/gelbiasa">
+    <img src="https://gelbysight.vercel.app/api/cards/streak/gelbiasa?bg=083344&bg2=172554&border=06b6d4&border2=3b82f6&title=cffafe&text=67e8f9&badge=22d3ee&flame=aed8ea" alt="GitHub Streak" width="70%" />
+  </a>
+</p>
+<br clear="both">
 
-<br>
 
 ```text
 // Thanks for visiting — let's build something awesome together! 🚀
