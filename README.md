@@ -91,8 +91,8 @@
 <br>
 
 
-```text
-// Thanks for visiting — let's build something awesome together! 🚀
-```
+<div align="center">
+  <img src="./assets/terminal-footer.svg" width="100%" alt="Thanks for visiting terminal" />
+</div>
 
 </div>

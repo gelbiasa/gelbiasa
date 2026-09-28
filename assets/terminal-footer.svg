@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 120" width="100%">
+  <style>
+    .text {
+      font-family: "Fira Code", Consolas, Monaco, "Courier New", Courier, monospace;
+      font-size: 16px;
+      fill: #67e8f9;
+    }
+    .prompt { fill: #22d3ee; font-weight: bold; }
+    .cmd { fill: #cffafe; font-weight: bold; }
+    .args { fill: #67e8f9; }
+    .cursor {
+      fill: #22d3ee;
+      animation: blink 1s step-end infinite;
+    }
+    @keyframes blink {
+      0%, 100% { opacity: 1; }
+      50% { opacity: 0; }
+    }
+  </style>
+  <!-- Window Background with gradient matching the API cards -->
+  <rect x="0" y="0" width="800" height="120" rx="8" fill="#083344" stroke="#06b6d4" stroke-width="1.5"/>
+  
+  <!-- Mac Window Buttons -->
+  <circle cx="30" cy="25" r="6" fill="#ef4444" />
+  <circle cx="50" cy="25" r="6" fill="#eab308" />
+  <circle cx="70" cy="25" r="6" fill="#22c55e" />
+  
+  <!-- Window Title -->
+  <text x="400" y="30" font-family="Consolas, Monaco, monospace" font-size="14" fill="#cffafe" text-anchor="middle" font-weight="bold">terminal - gelbiasa@github</text>
+  
+  <!-- Terminal Content -->
+  <g transform="translate(30, 70)">
+    <text class="text">
+      <tspan class="prompt">gelbiasa@github</tspan><tspan class="text">:</tspan><tspan class="cmd">~</tspan><tspan class="text">$ </tspan>
+      <tspan class="cmd">echo</tspan>
+      <tspan class="args"> "Thanks for visiting — let's build something awesome together! 🚀"</tspan>
+    </text>
+  </g>
+  <g transform="translate(30, 100)">
+    <text class="text">
+      <tspan class="prompt">gelbiasa@github</tspan><tspan class="text">:</tspan><tspan class="cmd">~</tspan><tspan class="text">$ </tspan>
+      <tspan class="cmd">npm</tspan>
+      <tspan class="args"> run collaborate </tspan>
+      <tspan class="cursor">&#9608;</tspan>
+    </text>
+  </g>
+</svg>
